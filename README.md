@@ -44,6 +44,19 @@ Activate the environment:
 ~$ python3 main.py --model {gpt-3.5, gpt-4, gpt-4v, gemini-pro, gemini-pro-vision} --dataset {medqa, medmcqa, pubmedqa, ddxplus, pmc-vqa, path-vqa, medvidqa}
 ```
 
+<br>
+
+If our work is helpful to you, please kindly cite our paper as:
+
+```
+@article{kim2024adaptive,
+  title={Adaptive Collaboration Strategy for LLMs in Medical Decision Making},
+  author={Kim, Yubin and Park, Chanwoo and Jeong, Hyewon and Chan, Yik Siu and Xu, Xuhai and McDuff, Daniel and Breazeal, Cynthia and Park, Hae Won},
+  journal={arXiv preprint arXiv:2404.15155},
+  year={2024}
+}
+```
+
 ## TODO
 
 - [ ] add baseline models
