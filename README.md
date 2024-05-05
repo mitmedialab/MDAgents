@@ -1,5 +1,8 @@
 # Adaptive Collaboration Strategy for LLMs in Medical Decision Making (2024)
 
+![Python Version](https://img.shields.io/badge/3.9%20%7C%203.10%20-blue)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40ybkim95_ai)](https://twitter.com/ybkim95_ai)
+
 <p align="center">
    📖 <a href="https://arxiv.org/pdf/2404.15155" target="_blank">Paper</a>  
 </p>
