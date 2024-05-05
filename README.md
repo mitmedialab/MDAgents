@@ -4,8 +4,14 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40ybkim95_ai)](https://twitter.com/ybkim95_ai)
 
 <p align="center">
+   <img width="1100" alt="image" src="https://github.com/mitmedialab/MDAgents/assets/45308022/d08d666a-ccae-4cd7-ab5b-f2f61e769ab1">
+</p>
+
+<p align="center">
    📖 <a href="https://arxiv.org/pdf/2404.15155" target="_blank">Paper</a>  
 </p>
+
+
 
 Foundation models are becoming invaluable tools in medicine. Despite their promise, the strategic deployment of LLMs for effective utility in complex medical tasks remains an open question. Our novel framework, Medical Decision-making Agents (**MDAgents**) aims to address this gap by automatically assigning a collaboration structure for a team of LLMs. The assigned solo or group collaboration structure is tailored to the medical task at hand, a simple emulation of how real-world medical decision making processes adapt to tasks of different complexities. We evaluate our framework and baseline methods with state-of-the-art LLMs across a suite of challenging medical benchmarks: MedQA, MedMCQA, PubMedQA, DDXPlus, PMC-VQA, Path-VQA, and MedVidQA, achieving the best performance in **five out of seven benchmarks**, tasks that require understanding of multi-modal medical reasoning. Ablation studies reveal that our MDAgents effectively assign collaborating agents to optimize for efficiency and accuracy across a diverse scenarios. We also explore the dynamics of group consensus, offering insights into how collaborative agents could behave in complex clinical team dynamics.
 
