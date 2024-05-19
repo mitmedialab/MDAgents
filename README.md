@@ -55,7 +55,7 @@ Activate the environment:
 
 <br>
 
-## Comparison to Prior Methods
+## Comparison to Previous Single Agent/Multi-Agent Methods
 
 <p align="center">
   <img width="900" src="imgs/comparison.png">
