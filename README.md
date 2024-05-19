@@ -58,7 +58,7 @@ Activate the environment:
 ## Comparison to Prior Methods
 
 <p align="center">
-  <img width="900" src="https://github.com/mitmedialab/MDAgents/assets/45308022/e6efbc89-972d-4dc1-8022-21a24c5afac6">
+  <img width="900" src="imgs/comparison.png">
 </p>
 
 <br>
