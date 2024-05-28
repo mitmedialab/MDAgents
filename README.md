@@ -86,24 +86,17 @@ Activate the environment:
 </p>
 <br>
 
-## Ablation 2: Impact of Number of Agents in Group Setting
+## Ablation 2: Impact of Number of Agents and Temperatures in Group Setting
 
 <p align="center">
   <img width="800" alt="image" src="imgs/ablation2.png">
 </p>
 <br>
 
-## Ablation 3: Robustness of MDAgents with different parameters
+## Ablation 3: Impact of Moderator’s Review and RAG
 
 <p align="center">
-  <img width="800" alt="image" src="imgs/ablation3.png">
-</p>
-<br>
-
-## Ablation 4: Impact of Moderator’s Review and RAG
-
-<p align="center">
-  <img width="800" alt="image" src="imgs/ablation4.png">
+  <img width="600" alt="image" src="imgs/ablation4.png">
 </p>
 <br>
 
