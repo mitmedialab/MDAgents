@@ -74,11 +74,39 @@ Activate the environment:
 ## Main Results
 
 <p align="center">
-  <img width="800" alt="image" src="imgs/main_results.png">
-  <img width="500" alt="image" src="imgs/summary.png">
+  <img width="800" alt="image" src="imgs/main_table.png">
+  <img width="500" alt="image" src="imgs/radar.png">
 </p>
-
 <br>
+
+## Ablation 1: Impact of Complexity Selection
+
+<p align="center">
+  <img width="800" alt="image" src="imgs/ablation1.png">
+</p>
+<br>
+
+## Ablation 2: Impact of Number of Agents in Group Setting
+
+<p align="center">
+  <img width="800" alt="image" src="imgs/ablation2.png">
+</p>
+<br>
+
+## Ablation 3: Robustness of MDAgents with different parameters
+
+<p align="center">
+  <img width="800" alt="image" src="imgs/ablation3.png">
+</p>
+<br>
+
+## Ablation 4: Impact of Moderator’s Review and RAG
+
+<p align="center">
+  <img width="800" alt="image" src="imgs/ablation4.png">
+</p>
+<br>
+
 <br>
 
 
