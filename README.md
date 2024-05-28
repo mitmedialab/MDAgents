@@ -84,7 +84,8 @@ Activate the environment:
 
 ## TODO
 
-- [ ] update main.py with review + medrag
+- [ ] update the main table with gpt-4o
+- [ ] update main.py with the latest version
 - [ ] add baseline methods
 - [ ] add eval.py
 - [ ] add more benchmarks (medmcqa, mmlu, mmmu, inspect, etc)
