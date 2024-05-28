@@ -65,6 +65,9 @@ Activate the environment:
 
 ## Inference
 
+> [!CAUTION]
+> main.py will be updated soon to the latest version. 
+
 ```bash
 ~$ python3 main.py --model {gpt-3.5, gpt-4, gpt-4v, gpt-4o, gemini-pro, gemini-pro-vision} --dataset {medqa, pubmedqa, ddxplus, jama, symcat, medbullets, jama, pmc-vqa, path-vqa, mimic-cxr, medvidqa}
 ```
