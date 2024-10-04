@@ -1,4 +1,4 @@
-# Adaptive Collaboration Strategy for LLMs in Medical Decision Making (2024)
+# [NeurIPS 2024 Oral] MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making
 
 <!--<p align="center">
    <img width="1100" alt="image" src="https://github.com/mitmedialab/MDAgents/assets/45308022/d08d666a-ccae-4cd7-ab5b-f2f61e769ab1">
