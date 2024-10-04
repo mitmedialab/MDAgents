@@ -103,13 +103,19 @@ Activate the environment:
 </p>
 <br>
 
-<br>
 
 
-## TODO
+## Cite
+If you find this repository useful in your research, please cite our paper:
 
-- [ ] update the main table with gpt-4o
-- [ ] update main.py with the latest version
-- [ ] add baseline methods
-- [ ] add eval.py
-- [ ] add more benchmarks (medmcqa, mmlu, mmmu, inspect, etc)
+```bibtex
+@article{kim2024adaptive,
+  title={Adaptive Collaboration Strategy for LLMs in Medical Decision Making},
+  author={Kim, Yubin and Park, Chanwoo and Jeong, Hyewon and Chan, Yik Siu and Xu, Xuhai and McDuff, Daniel and Breazeal, Cynthia and Park, Hae Won},
+  journal={arXiv preprint arXiv:2404.15155},
+  year={2024}
+}
+```
+
+## Contact
+Yubin Kim (ybkim95@mit.edu)
