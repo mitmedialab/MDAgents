@@ -34,6 +34,34 @@ Activate the environment:
 ~$ conda activate mdagents
 ```
 
+Set up API keys:
+```bash
+~$ export openai_api_key="your_openai_api_key_here"
+~$ export genai_api_key="your_genai_api_key_here"
+```
+
+Replace your_openai_api_key_here and your_genai_api_key_here with your actual API keys.
+Prepare the data:
+
+```bash
+~$ mkdir -p ./data
+```
+
+Place your JSON data files in the ./data directory. Ensure that the files are named according to the dataset they represent, e.g., medqa.json, pubmedqa.json, etc.
+
+Your directory structure should look like this:
+```
+mdagents/
+├── data/
+│   ├── medqa.json
+│   ├── pubmedqa.json
+│   └── ... (other dataset files)
+├── main.py
+├── utils.py
+├── requirements.txt
+└── README.md
+```
+
 <br>
 
 ## Dataset
