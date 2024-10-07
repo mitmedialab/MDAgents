@@ -136,11 +136,14 @@ mdagents/
 If you find this repository useful in your research, please cite our paper:
 
 ```bibtex
-@article{kim2024adaptive,
-  title={Adaptive Collaboration Strategy for LLMs in Medical Decision Making},
-  author={Kim, Yubin and Park, Chanwoo and Jeong, Hyewon and Chan, Yik Siu and Xu, Xuhai and McDuff, Daniel and Breazeal, Cynthia and Park, Hae Won},
-  journal={arXiv preprint arXiv:2404.15155},
-  year={2024}
+@misc{kim2024mdagentsadaptivecollaborationllms,
+      title={MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making}, 
+      author={Yubin Kim and Chanwoo Park and Hyewon Jeong and Yik Siu Chan and Xuhai Xu and Daniel McDuff and Hyeonhoon Lee and Marzyeh Ghassemi and Cynthia Breazeal and Hae Won Park},
+      year={2024},
+      eprint={2404.15155},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2404.15155}, 
 }
 ```
 
