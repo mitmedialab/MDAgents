@@ -147,5 +147,17 @@ If you find this repository useful in your research, please cite our paper:
 }
 ```
 
+```bibtex
+@misc{kim2024demonstrationadaptivecollaborationlarge,
+      title={A Demonstration of Adaptive Collaboration of Large Language Models for Medical Decision-Making}, 
+      author={Yubin Kim and Chanwoo Park and Hyewon Jeong and Cristina Grau-Vilchez and Yik Siu Chan and Xuhai Xu and Daniel McDuff and Hyeonhoon Lee and Marzyeh Ghassemi and Cynthia Breazeal and Hae Won Park},
+      year={2024},
+      eprint={2411.00248},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.00248}, 
+}
+```
+
 ## Contact
 Yubin Kim (ybkim95@mit.edu)
