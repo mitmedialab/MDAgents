@@ -133,7 +133,7 @@ mdagents/
 
 
 ## Cite Us
-If you find this repository useful in your research, please cite our paper:
+If you find this repository useful in your research, please cite our works:
 
 ```bibtex
 @misc{kim2024mdagentsadaptivecollaborationllms,
