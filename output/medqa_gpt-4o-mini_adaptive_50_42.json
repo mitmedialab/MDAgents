@@ -1,0 +1,840 @@
+[
+    {
+        "question": "A 21-year-old male presents to his primary care provider for fatigue. He reports that he graduated from college last month and returned 3 days ago from a 2 week vacation to Vietnam and Cambodia. For the past 2 days, he has developed a worsening headache, malaise, and pain in his hands and wrists. The patient has a past medical history of asthma managed with albuterol as needed. He is sexually active with both men and women, and he uses condoms \u201cmost of the time.\u201d On physical exam, the patient\u2019s temperature is 102.5\u00b0F (39.2\u00b0C), blood pressure is 112/66 mmHg, pulse is 105/min, respirations are 12/min, and oxygen saturation is 98% on room air. He has tenderness to palpation over his bilateral metacarpophalangeal joints and a maculopapular rash on his trunk and upper thighs. Tourniquet test is negative. Laboratory results are as follows:\n\nHemoglobin: 14 g/dL\nHematocrit: 44%\nLeukocyte count: 3,200/mm^3\nPlatelet count: 112,000/mm^3\n\nSerum:\nNa+: 142 mEq/L\nCl-: 104 mEq/L\nK+: 4.6 mEq/L\nHCO3-: 24 mEq/L\nBUN: 18 mg/dL\nGlucose: 87 mg/dL\nCreatinine: 0.9 mg/dL\nAST: 106 U/L\nALT: 112 U/L\nBilirubin (total): 0.8 mg/dL\nBilirubin (conjugated): 0.3 mg/dL\n\nWhich of the following is the most likely diagnosis in this patient? Options: (D) Hepatitis A (A) Chikungunya (C) Epstein-Barr virus (B) Dengue fever (E) Typhoid fever",
+        "label": "A",
+        "answer": "Chikungunya",
+        "options": {
+            "A": "Chikungunya",
+            "B": "Dengue fever",
+            "C": "Epstein-Barr virus",
+            "D": "Hepatitis A",
+            "E": "Typhoid fever"
+        },
+        "response": {
+            "majority": {
+                "0.0": "Based on the majority opinions from the medical experts:\n\n1. **Infectious Disease Specialist**: Diagnosed Dengue fever (B).\n2. **Hematologist**: Diagnosed Dengue fever (B).\n3. **Gastroenterologist**: Diagnosed Dengue fever (B).\n\nAll three agents unanimously concluded that the most likely diagnosis is **Dengue fever (B)**, supported by the patient's recent travel history to endemic areas, presenting symptoms, and laboratory findings.\n\nTherefore, the final answer is **(B) Dengue fever**."
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A 56-year-old man with a history of hypertension presents to his physician with progressive fatigue and new onset muscle cramps. He has had no recent changes to his medication regimen, which includes hydrochlorothiazide, lisinopril, and amlodipine. His temperature is 98.0\u00b0F (36.7\u00b0C), blood pressure is 174/111 mmHg, pulse is 70/min, respirations are 12/min, and oxygen saturation is 98% on room air. The patient's cardiopulmonary and abdominal exams are unremarkable. Laboratory values are ordered as seen below.\n\nSerum:\nNa+: 138 mEq/L\nCl-: 100 mEq/L\nK+: 3.3 mEq/L\nHCO3-: 33 mEq/L\nBUN: 20 mg/dL\nGlucose: 129 mg/dL\n\nWhat is the most likely underlying etiology of this patient's hypertension? Options: (A) Aldosterone excess (E) Increased peripheral vascular resistance (D) Impaired kidney perfusion (B) Catecholamine-secreting mass (C) Cortisol excess",
+        "label": "A",
+        "answer": "Aldosterone excess",
+        "options": {
+            "A": "Aldosterone excess",
+            "B": "Catecholamine-secreting mass",
+            "C": "Cortisol excess",
+            "D": "Impaired kidney perfusion",
+            "E": "Increased peripheral vascular resistance"
+        },
+        "response": {
+            "0.0": "The most likely underlying etiology of this patient's hypertension is **(A) Aldosterone excess**. \n\nThis conclusion is supported by the following key findings:\n\n1. **Hypertension**: The patient has significantly elevated blood pressure (174/111 mmHg), which is a critical factor in evaluating potential causes of hypertension.\n\n2. **Hypokalemia**: The laboratory result shows a potassium level of 3.3 mEq/L, indicating low potassium, which is commonly associated with conditions of aldosterone excess due to increased renal potassium excretion.\n\n3. **Metabolic Alkalosis**: The elevated bicarbonate level (HCO3- 33 mEq/L) suggests metabolic alkalosis, which is consistent with the effects of excess aldosterone that promotes sodium retention and potassium loss.\n\n4. **Clinical Symptoms**: The patient reports progressive fatigue and muscle cramps, which can be attributed to hypokalemia.\n\nThe differential diagnoses considered (such as pheochromocytoma, Cushing's syndrome, increased peripheral vascular resistance, and impaired kidney perfusion) were ruled out based on the specific clinical and laboratory findings. \n\nThus, the evidence strongly points towards primary hyperaldosteronism (Conn's syndrome) as the underlying cause of the patient's hypertension. Further evaluation, including plasma aldosterone and renin levels, is recommended to confirm this diagnosis."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 47-year-old woman seeks evaluation at your office because she has had postcoital vaginal bleeding for the past 8 months with occasional intermenstrual watery, blood-tinged vaginal discharge. Her family history is negative for malignancies and inherited disorders. She is the result of a pregnancy complicated by numerous miscarriages in the 1960s, for which her mother received diethylstilbestrol. During a pelvic examination, you notice a polypoid mass on the anterior wall of the vagina. The bimanual examination is negative for adnexal masses. You suspect the presence of carcinoma and, therefore, send tissue samples to pathology, which confirmed the presence of malignant cells. Which of the following is the most likely malignant tumor in this patient? Options: (E) Squamous cell carcinoma (SCC) (A) Clear cell adenocarcinoma (D) Verrucous carcinoma (C) Botryoid sarcoma (B) Melanoma",
+        "label": "A",
+        "answer": "Clear cell adenocarcinoma",
+        "options": {
+            "A": "Clear cell adenocarcinoma",
+            "B": "Melanoma",
+            "C": "Botryoid sarcoma",
+            "D": "Verrucous carcinoma",
+            "E": "Squamous cell carcinoma (SCC)"
+        },
+        "response": {
+            "0.0": "Based on the comprehensive evaluation of the patient's history, clinical presentation, and the confirmed presence of malignant cells in the tissue samples, the most likely malignant tumor in this patient is **(A) Clear cell adenocarcinoma**.\n\nThis conclusion is supported by the following key points:\n\n1. **Maternal DES Exposure**: The patient's history of maternal exposure to diethylstilbestrol (DES) is a significant risk factor for developing clear cell adenocarcinoma, particularly in the context of vaginal and cervical cancers.\n\n2. **Clinical Symptoms**: The patient presents with postcoital vaginal bleeding and a polypoid mass, which are characteristic symptoms associated with clear cell adenocarcinoma.\n\n3. **Histological Confirmation**: The pathology report confirmed the presence of malignant cells, aligning with the clinical suspicion of clear cell adenocarcinoma, which is specifically linked to DES exposure.\n\n4. **Differential Diagnosis**: While squamous cell carcinoma (SCC) is a common type of vaginal cancer, it does not have the same specific association with DES exposure as clear cell adenocarcinoma does. Other options such as verrucous carcinoma, botryoid sarcoma, and melanoma are less likely given the patient's age, history, and clinical findings.\n\nIn summary, the most likely malignant tumor in this patient is **(A) Clear cell adenocarcinoma**."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 36-year-old man undergoes open reduction and internal fixation of a left femur fracture sustained after a motor vehicle collision. Three days after the surgery, he develops fever and redness around the surgical site. His temperature is 39.5\u00b0C (103.1\u00b0F). Physical examination shows purulent discharge from the wound with erythema of the surrounding skin. Wound culture of the purulent discharge shows gram-positive cocci in clusters. Treatment with oral dicloxacillin is initiated. Four days later, the patient continues to have high-grade fever, pain, and purulent discharge. Which of the following characteristics of the infecting organism best explains the failure to improve with antibiotic therapy? Options: (D) Development of efflux pumps (A) Secretion of a pyrogenic toxin (C) Ability to cleave \u03b2-lactam rings (B) Presence of an impenetrable outer membrane (E) Adaptation in binding proteins",
+        "label": "E",
+        "answer": "Adaptation in binding proteins",
+        "options": {
+            "A": "Secretion of a pyrogenic toxin",
+            "B": "Presence of an impenetrable outer membrane",
+            "C": "Ability to cleave \u03b2-lactam rings",
+            "D": "Development of efflux pumps",
+            "E": "Adaptation in binding proteins"
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the three agents, the majority consensus points towards the explanation for the failure to improve with dicloxacillin being related to the organism's adaptation in binding proteins, specifically in the context of Methicillin-resistant Staphylococcus aureus (MRSA).\n\n- The infectious disease specialist and the microbiologist both concluded that the best explanation for the treatment failure is **(E) Adaptation in binding proteins**, which is a well-known mechanism of resistance for MRSA against \u03b2-lactam antibiotics like dicloxacillin.\n- The orthopedic surgeon, while initially supporting **(C) Ability to cleave \u03b2-lactam rings**, ultimately acknowledged that **(E)** is the more appropriate answer in the context of MRSA.\n\nGiven that two out of three agents support option **(E)** and recognize the specific resistance mechanism of MRSA, the final answer is:\n\n**(E) Adaptation in binding proteins.**"
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A 59-year-old man is brought to the emergency department with a history of black, tarry stools but denies vomiting of blood or abdominal pain. His family has noticed progressive confusion. History is significant for liver cirrhosis and alcoholism. His heart rate is 112/min, temperature is 37.1\u00b0C (98.7\u00b0F), and blood pressure is 110/70 mm Hg. On examination, he is jaundiced, lethargic, is oriented to person and place but not date, and has moderate ascites. Neurological examination reveals asterixis, and his stool is guaiac-positive. Liver function test are shown below:\nTotal albumin 2 g/dL\nProthrombin time 9 seconds\nTotal bilirubin 5 mg/dL\nAlanine aminotransferase (ALT) 100 U/L\nAspartate aminotransferase (AST) 220 U/L\nWhich of the following is a feature of this patient condition? Options: (C) It is a diagnosis of exclusion (D) It only occurs in patients with cirrhosis (E) Electroencephalography (EEG) usually shows focal localising abnormality (B) Ammonia level is the best initial test to confirm the diagnosis (A) It carries a good prognosis",
+        "label": "C",
+        "answer": "It is a diagnosis of exclusion",
+        "options": {
+            "A": "It carries a good prognosis",
+            "B": "Ammonia level is the best initial test to confirm the diagnosis",
+            "C": "It is a diagnosis of exclusion",
+            "D": "It only occurs in patients with cirrhosis",
+            "E": "Electroencephalography (EEG) usually shows focal localising abnormality"
+        },
+        "response": {
+            "0.0": "Based on the comprehensive analysis and the clinical presentation of the patient, the most accurate feature of this patient's condition, hepatic encephalopathy (HE), is:\n\n**(C) It is a diagnosis of exclusion.**\n\nHowever, it is important to note that while HE can be diagnosed clinically in the context of known liver dysfunction, the statement that it is solely a diagnosis of exclusion can be misleading. The diagnosis can often be made based on clinical criteria without exhaustive exclusion of other conditions.\n\nThe other options can be evaluated as follows:\n\n- **(D) It only occurs in patients with cirrhosis**: This is incorrect, as HE can also occur in other liver conditions, including acute liver failure.\n- **(E) Electroencephalography (EEG) usually shows focal localising abnormality**: This is incorrect; EEG findings in HE typically show diffuse abnormalities rather than focal ones.\n- **(B) Ammonia level is the best initial test to confirm the diagnosis**: This is misleading, as elevated ammonia levels are not definitive for diagnosing HE.\n- **(A) It carries a good prognosis**: This is incorrect; the presence of HE generally indicates a poor prognosis, especially in the context of advanced liver disease.\n\nGiven the context and the nuances of the statements, the best answer remains **(C)**, but with the understanding that the diagnosis can often be made clinically in the presence of liver dysfunction."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 30-year-old man presents to his primary care physician with complaints of excessive fatigue and weakness for the last several weeks. He also complains of abdominal pain and constipation for the same duration. On further questioning, he reports that he has lost 8 pounds in the last 2 weeks. Past medical history and family history are insignificant. His temperature is 37.3\u00b0 C (99.2\u00b0 F), respirations are 21/min, pulse is 63/min, and blood pressure is 99/70 mm Hg. On physical examination, he is a tired-appearing, thin male. He has a bronze discoloration to his skin, but he denies being outside in the sun or any history of laying in tanning beds. What is the next best step in the management of this patient? Options: (B) Administer intravenous fludrocortisone (E) Order an ACTH stimulation test (A) Administer intravenous hydrocortisone (C) Start him on androgen replacement treatment (D) Start him on both hydrocortisone and fludrocortisone therapy",
+        "label": "D",
+        "answer": "Start him on both hydrocortisone and fludrocortisone therapy",
+        "options": {
+            "A": "Administer intravenous hydrocortisone",
+            "B": "Administer intravenous fludrocortisone",
+            "C": "Start him on androgen replacement treatment",
+            "D": "Start him on both hydrocortisone and fludrocortisone therapy",
+            "E": "Order an ACTH stimulation test"
+        },
+        "response": {
+            "0.0": "The next best step in the management of this patient, who presents with clinical features strongly suggestive of primary adrenal insufficiency (Addison's disease) and is at risk for an adrenal crisis, is to **(A) Administer intravenous hydrocortisone**.\n\nThis decision is based on the following considerations:\n\n1. **Clinical Presentation**: The patient exhibits classic symptoms of adrenal insufficiency, including fatigue, weakness, weight loss, abdominal pain, hypotension, bradycardia, and skin hyperpigmentation. These symptoms indicate a potential adrenal crisis, which is a life-threatening emergency.\n\n2. **Immediate Treatment Protocol**: The first-line treatment for suspected adrenal crisis is intravenous hydrocortisone. This intervention is critical for stabilizing the patient and restoring cortisol levels to prevent severe complications.\n\n3. **Avoiding Delays in Diagnosis**: While diagnostic tests such as the ACTH stimulation test are important for confirming the diagnosis of Addison's disease, they should not delay the initiation of treatment in an unstable patient. The priority is to address the acute adrenal insufficiency.\n\n4. **Long-term Management**: After the patient is stabilized with intravenous hydrocortisone, further evaluations can be conducted to confirm the diagnosis and consider additional therapies, such as fludrocortisone for long-term management, but these are not priorities in the acute setting.\n\nIn summary, the most appropriate and urgent intervention for this patient is to **administer intravenous hydrocortisone**."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 58-year-old white man with hypertension and type 2 diabetes mellitus comes to the physician because of a 3-month history of a painless lesion on his lower lip. He has smoked one pack of cigarettes daily for 20 years. He has worked as a fruit picker for the past 25 years. His current medications include captopril and metformin. Examination of the oral cavity shows a single ulcer near the vermillion border. Which of the following is the most likely diagnosis? Options: (D) Actinic keratosis (B) Herpes labialis (A) Squamous cell carcinoma (C) Aphthous stomatitis (E) Traumatic ulcer",
+        "label": "A",
+        "answer": "Squamous cell carcinoma",
+        "options": {
+            "A": "Squamous cell carcinoma",
+            "B": "Herpes labialis",
+            "C": "Aphthous stomatitis",
+            "D": "Actinic keratosis",
+            "E": "Traumatic ulcer"
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the three medical experts, it is clear that all three agents (the dermatologist, oral and maxillofacial surgeon, and oncologist) unanimously agree on the diagnosis of (A) Squamous cell carcinoma (SCC) based on the patient's clinical presentation and risk factors.\n\nKey points supporting this diagnosis include:\n- The patient's age and significant risk factors, including a long history of smoking and extensive sun exposure from his occupation.\n- The characteristics of the lesion, which is a painless ulcer located near the vermillion border of the lip, a common site for SCC.\n- The chronic nature of the lesion, persisting for three months, raises concern for malignancy.\n\nOther potential diagnoses such as actinic keratosis, herpes labialis, and aphthous stomatitis were considered but deemed less likely due to the specific characteristics of the lesion and the patient's history.\n\nGiven the consensus among the experts and the compelling evidence presented, the final answer is:\n\n**(A) Squamous cell carcinoma**."
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A 46-year-old woman comes to the physician because of severe muscle and joint pain for 5 months. The pain varies in location and intensity. She also has joint stiffness in the morning and reports fatigue throughout the day that she attributes to not sleeping well. She reports a tingling sensation in her lower limbs. Her bowel habits are unchanged but she often feels bloated. She has primary hypertension and occasional migraine headaches. She does not smoke or consume alcohol. Her medications include propranolol and sumatriptan. She appears healthy. Examination shows symmetric muscular tenderness at the base of the neck, over the shoulders, and in the lumbosacral area. Strength and deep tendon reflexes are normal. Laboratory studies show:\nHemoglobin 14.3 g/dL\nLeukocyte count 9300/mm3\nPlatelet count 230,000/mm3\nMean corpuscular volume 85 \u03bcm3\nErythrocyte sedimentation rate 12 mm/h\nSerum\nGlucose 92 mg/dL\nCreatinine 0.6 mg/dL\nTSH 3.1 \u03bcU/mL\nUrinalysis is within normal limits. Which of the following is the most appropriate therapy for this patient?\" Options: (C) Vitamin B12 (A) Bupropion (B) Temazepam (D) Amitriptyline (E) Methotrexate\n\"",
+        "label": "D",
+        "answer": "Amitriptyline",
+        "options": {
+            "A": "Bupropion",
+            "B": "Temazepam",
+            "C": "Vitamin B12",
+            "D": "Amitriptyline",
+            "E": "Methotrexate\n\""
+        },
+        "response": {
+            "0.0": "The most appropriate therapy for this patient is **(D) Amitriptyline**.\n\n### Rationale:\n1. **Clinical Presentation**: The patient exhibits symptoms consistent with fibromyalgia or myofascial pain syndrome, including chronic muscle and joint pain, morning stiffness, fatigue, and tingling sensations in the lower limbs. These symptoms align with the characteristics of fibromyalgia, which is often associated with tender points and chronic pain.\n\n2. **Laboratory Findings**: The patient's laboratory results show normal inflammatory markers (ESR and CRP), which suggests that there is no significant inflammatory or autoimmune process at play. This further supports the diagnosis of fibromyalgia or a similar chronic pain syndrome.\n\n3. **Treatment Options**:\n   - **Vitamin B12**: Not indicated as there is no evidence of deficiency.\n   - **Bupropion**: Primarily used for depression and smoking cessation; not suitable for pain management.\n   - **Temazepam**: A benzodiazepine for sleep issues, but does not address the underlying pain.\n   - **Amitriptyline**: A tricyclic antidepressant that is effective for chronic pain management and can also improve sleep quality, making it a suitable choice for this patient.\n   - **Methotrexate**: Inappropriate given the absence of inflammatory markers.\n\n### Conclusion:\nAmitriptyline is well-supported in the literature for managing chronic pain conditions, particularly fibromyalgia, and can also help with sleep disturbances, which are significant concerns for this patient. Therefore, the recommendation is to initiate treatment with Amitriptyline."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 40-year-old businessman who was previously well is brought into the emergency department by his assistant with a complaint of left-sided weakness after a chiropractic neck manipulation. He has never felt like this before. Past medical history is insignificant. His blood pressure is 125/75 mm Hg, pulse 86/min, respiratory rate 13/min, temperature 36.8\u00b0C (98.2\u00b0F). A T2-weighted MRI shows a left C5 hemicord lesion. The patient is treated with cervical immobilization, a course of steroids, and physical therapy. What other finding will most likely be seen in this patient? Options: (E) Contralateral loss of vibration and proprioception (C) Contralateral corticospinal tract involvement (A) Spastic paralysis at the level of lesion (D) Right-sided analgesia (B) Right-sided Horner's syndrome",
+        "label": "D",
+        "answer": "Right-sided analgesia",
+        "options": {
+            "A": "Spastic paralysis at the level of lesion",
+            "B": "Right-sided Horner's syndrome",
+            "C": "Contralateral corticospinal tract involvement",
+            "D": "Right-sided analgesia",
+            "E": "Contralateral loss of vibration and proprioception"
+        },
+        "response": {
+            "0.0": "Based on the comprehensive analysis of the left C5 hemicord lesion and the expected neurological deficits associated with it, the most likely finding in this patient is:\n\n**(D) Right-sided analgesia.**\n\nThis conclusion is drawn from the understanding that a left C5 hemicord lesion results in:\n- **Ipsilateral (left side)** motor weakness and loss of proprioception/vibration sense due to corticospinal tract and dorsal column involvement.\n- **Contralateral (right side)** loss of pain and temperature sensation (analgesia) due to the disruption of the spinothalamic tract.\n\nThe other options do not accurately reflect the expected findings:\n- (E) Contralateral loss of vibration and proprioception is incorrect; these sensations are typically preserved on the contralateral side.\n- (C) Contralateral corticospinal tract involvement is misleading; the corticospinal tract involvement leads to ipsilateral weakness.\n- (A) Spastic paralysis at the level of the lesion is not the most significant finding; the more pronounced deficits occur below the level of the lesion.\n- (B) Right-sided Horner's syndrome is not typically associated with a left C5 hemicord lesion.\n\nThus, the correct answer is **(D) Right-sided analgesia.**"
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 29-year-old man is brought to the emergency department by a concerned neighbor. The patient appears disheveled, has a flat affect, and appears to be having auditory hallucinations. He is alert and oriented to time, person, and place and has an intact long-term and short-term memory. His neighbor says that he never really knew the patient that well and that he mostly kept to himself. They have been neighbors for the past 3 years at an apartment close to the hospital. What worried the neighbor was a sudden change in the patient's behavior which started last week. He suddenly seemed interested in attending all the local council meetings and social gatherings. He is very talkative at these events and boasts highly of himself and starts suggesting changes that the committee could make with his help. He gets very agitated when they deny accepting his suggestions. Which of the following is a predictor of good prognosis for this patient's condition? Options: (D) Male sex (E) Negative symptoms (C) Being single (B) Slow onset (A) Affective symptoms",
+        "label": "A",
+        "answer": "Affective symptoms",
+        "options": {
+            "A": "Affective symptoms",
+            "B": "Slow onset",
+            "C": "Being single",
+            "D": "Male sex",
+            "E": "Negative symptoms"
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the psychiatrist, clinical psychologist, and social worker, it is clear that all three agents agree on the same conclusion regarding the predictor of good prognosis for the patient's condition. They unanimously identify **(A) Affective symptoms** as the best predictor of a favorable outcome in this case.\n\nThe reasoning provided by each agent highlights that the presence of affective symptoms, which are indicative of mood-related issues, is generally associated with better prognoses in mood disorders, particularly when compared to the other options listed. They also note that negative symptoms, slow onset, being single, and male sex do not typically correlate with a good prognosis.\n\nGiven the consensus among the experts, the final answer to the question is:\n\n**(A) Affective symptoms.**"
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A 26-year-old man with no significant past medical history presents to the ED following a motor vehicle accident. Vital signs on presentation are T 99.0 F, BP 100/60 mmHg, HR 125 bpm, RR 16/min, SpO2 98% on room air. He complains of extreme abdominal pain worse in the left upper quadrant which has worsened over the past 30 minutes. Exam demonstrates abdominal wall rigidity, involuntary guarding, and tenderness on light percussion. Bedside sonography shows evidence for hemoperitoneum. Despite administering more intravenous fluids, repeat vitals are T 98.9 F, BP 82/50 mm hg, HR 180 bpm, RR 20/min, SpO2 97% on room air. Which of the following is the best next step? Options: (E) Exploratory laparotomy (B) CT abdomen and pelvis (D) Abdominal plain film (C) Morphine (A) Normal saline bolus and re-evaluation of hemodynamics after infusion",
+        "label": "E",
+        "answer": "Exploratory laparotomy",
+        "options": {
+            "A": "Normal saline bolus and re-evaluation of hemodynamics after infusion",
+            "B": "CT abdomen and pelvis",
+            "C": "Morphine",
+            "D": "Abdominal plain film",
+            "E": "Exploratory laparotomy"
+        },
+        "response": {
+            "0.0": "Based on the comprehensive assessment from the multidisciplinary teams and the critical condition of the patient, the best next step in management is **(E) Exploratory laparotomy**.\n\n### Rationale:\n1. **Clinical Presentation**: The patient exhibits signs of hypovolemic shock (elevated heart rate, low blood pressure) and has significant abdominal findings (rigidity, guarding, tenderness) indicative of an acute intra-abdominal process.\n2. **Evidence of Hemoperitoneum**: The bedside sonography confirms the presence of fluid in the abdominal cavity, suggesting significant internal bleeding, likely due to trauma from the motor vehicle accident.\n3. **Hemodynamic Instability**: Despite fluid resuscitation, the patient's condition is deteriorating, as evidenced by the drop in blood pressure and the increase in heart rate. This indicates ongoing hemorrhage that requires surgical intervention.\n4. **Urgency of Surgical Intervention**: Given the critical nature of the patient's condition, further imaging (such as a CT scan) would delay necessary surgical management. The immediate need is to control the source of bleeding and stabilize the patient through surgical exploration.\n\n### Conclusion:\nIn light of the patient's critical state, the presence of hemoperitoneum, and the signs of hemodynamic instability, an exploratory laparotomy is essential for stabilizing the patient and addressing life-threatening complications. This intervention is prioritized over other options due to the immediate risks associated with the patient's current condition."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 56-year-old man presents to the clinic complaining of subacute back pain for the past month. The pain is described as a dull, constant ache that is worse at night. He could not recall any precipitating event except for an amateur weight-lifting competition that he participated in 2 months ago. Past medical history is significant for non-small cell lung cancer that was diagnosed and successfully treated. A PET scan 1 year ago demonstrated no recurrence. Physical exam was unremarkable except for some point tenderness along the lumbosacral area. What is the most likely imaging finding in this patient? Options: (D) Narrowing of the lumbar disc space (E) Sacroilitis and fusion of the lumbar spine (B) Bulging disc impinging on lumbar spinal nerve (C) Lytic lesions of the lumbar spine (A) Blastic lesions of the lumbar spine",
+        "label": "C",
+        "answer": "Lytic lesions of the lumbar spine",
+        "options": {
+            "A": "Blastic lesions of the lumbar spine",
+            "B": "Bulging disc impinging on lumbar spinal nerve",
+            "C": "Lytic lesions of the lumbar spine",
+            "D": "Narrowing of the lumbar disc space",
+            "E": "Sacroilitis and fusion of the lumbar spine"
+        },
+        "response": {
+            "0.0": "Based on the comprehensive assessment of the patient's history, symptoms, and the multidisciplinary team's consensus, the most likely imaging finding in this patient is **(C) Lytic lesions of the lumbar spine**. \n\nThe patient's history of non-small cell lung cancer (NSCLC) and the characteristics of his back pain\u2014subacute, worsening at night, and associated with point tenderness\u2014strongly suggest the possibility of metastatic disease. Lytic lesions are commonly associated with metastasis from lung cancer, making this the most plausible explanation for his current symptoms. \n\nOther options, such as narrowing of the lumbar disc space, sacroilitis, bulging disc, and blastic lesions, are less likely given the patient's oncological background and the specific nature of his pain. Therefore, the correct answer is (C) Lytic lesions of the lumbar spine."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 22-year-old female college student is treated with metronidazole after presenting to student health services with itching, discharge, and pain in her vagina. At a party shortly afterward she experiences facial flushing, nausea, tachycardia, dyspnea, headache, and abdominal cramps after consuming alcohol. Serum levels of which of the following are likely elevated in this patient following alcohol consumption: Options: (E) Amylase (B) Uric acid (C) Cytochrome P-450 enzymes (A) Acetaldehyde (D) Triglycerides",
+        "label": "A",
+        "answer": "Acetaldehyde",
+        "options": {
+            "A": "Acetaldehyde",
+            "B": "Uric acid",
+            "C": "Cytochrome P-450 enzymes",
+            "D": "Triglycerides",
+            "E": "Amylase"
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the clinical pharmacologist, toxicologist, and hepatologist, it is clear that all three experts agree on the mechanism of action of metronidazole in relation to alcohol consumption. They all identify that the symptoms experienced by the patient are consistent with a disulfiram-like reaction due to the accumulation of acetaldehyde, which occurs because metronidazole inhibits the enzyme responsible for metabolizing acetaldehyde.\n\nGiven that all three agents unanimously concluded that the serum levels of acetaldehyde are likely elevated following alcohol consumption in this patient, the majority vote is clear.\n\nFinal Answer: (A) Acetaldehyde"
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A stillborn infant is delivered at 38 weeks' gestation to a 32-year-old woman. The mother had no prenatal care. Examination of the stillborn shows a small pelvis, shallow intergluteal cleft, and club feet. An x-ray shows the absence of the sacrum and lumbar vertebrae. Which of the following is the strongest predisposing factor for this patient's condition? Options: (D) Maternal diabetes (E) Chromosome 18 trisomy (C) Chromosome 13 trisomy (A) Maternal oligohydramnios (B) Intrauterine alcohol exposure",
+        "label": "D",
+        "answer": "Maternal diabetes",
+        "options": {
+            "A": "Maternal oligohydramnios",
+            "B": "Intrauterine alcohol exposure",
+            "C": "Chromosome 13 trisomy",
+            "D": "Maternal diabetes",
+            "E": "Chromosome 18 trisomy"
+        },
+        "response": {
+            "0.0": "The strongest predisposing factor for the stillborn infant's condition, characterized by significant skeletal anomalies including the absence of the sacrum and lumbar vertebrae, small pelvis, shallow intergluteal cleft, and club feet, is (B) Intrauterine alcohol exposure. \n\nThis conclusion is supported by the consensus from the multidisciplinary team, which identified intrauterine alcohol exposure as the primary teratogenic factor leading to the observed malformations, particularly those associated with fetal alcohol spectrum disorders (FASD) and caudal regression syndrome. Other factors such as maternal oligohydramnios were considered but do not correlate as strongly with the specific skeletal defects observed in this case."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 52-year-old man is brought to the emergency department for recurrent vomiting that began 5 hours ago. He describes the vomitus as bloody and containing black specks. He drinks 10\u201312 beers daily and has not seen a physician in 15 years. He appears pale. His temperature is 36.7\u00b0C (98.1\u00b0F), pulse is 122/min, and blood pressure is 85/59 mm Hg. Physical examination shows decreased radial pulses, delayed capillary refill, multiple spider angiomata, and a distended abdomen. He is oriented to person but not to place or time. Which of the following is most likely decreased in this patient in response to his current condition compared to a healthy adult? Options: (C) Carotid baroreceptor firing activity (B) Fractional tissue oxygen extraction (E) Cardiac inotropy (A) Systemic vascular resistance (D) Pulmonary vascular resistance",
+        "label": "C",
+        "answer": "Carotid baroreceptor firing activity",
+        "options": {
+            "A": "Systemic vascular resistance",
+            "B": "Fractional tissue oxygen extraction",
+            "C": "Carotid baroreceptor firing activity",
+            "D": "Pulmonary vascular resistance",
+            "E": "Cardiac inotropy"
+        },
+        "response": {
+            "0.0": "The most likely physiological parameter that is decreased in this patient, a 52-year-old male experiencing hypovolemic shock due to gastrointestinal bleeding, is **(C) Carotid baroreceptor firing activity**. \n\nThis conclusion is based on the understanding that in response to hypotension (as indicated by the patient's blood pressure of 85/59 mm Hg), there is a reduction in arterial stretch, which leads to decreased firing of the carotid baroreceptors. This decrease is a critical physiological response that triggers compensatory mechanisms aimed at increasing heart rate and systemic vascular resistance to restore blood pressure.\n\nOther parameters such as fractional tissue oxygen extraction are likely to be normal or increased as tissues attempt to extract more oxygen due to reduced perfusion, while cardiac inotropy may remain stable or increase due to compensatory mechanisms. Systemic vascular resistance is expected to increase in response to hypotension, and pulmonary vascular resistance is less relevant in this acute context.\n\nThus, the final answer to the medical query is **(C) Carotid baroreceptor firing activity**."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 14-year-old boy presents with right upper quadrant abdominal pain and is found on ultrasound to have a gallstone. Based on clinical suspicion, a CBC, a Coombs test, and a bilirubin panel are obtained to determine the etiology of the gallstone. These tests reveal a mild normocytic anemia with associated reticulocytosis as well as an increased RDW. In addition there is an indirect hyperbilirubinemia and the Coombs test results are negative. To confirm the diagnosis, an osmotic fragility test is performed which shows increased fragility in hypotonic solution. In this patient, what findings would most likely be anticipated if a blood smear were obtained? Options: (D) Spherocytes (E) Dacrocytes (A) Hypersegmented neutrophils (B) Schistocytes (C) Sideroblasts",
+        "label": "D",
+        "answer": "Spherocytes",
+        "options": {
+            "A": "Hypersegmented neutrophils",
+            "B": "Schistocytes",
+            "C": "Sideroblasts",
+            "D": "Spherocytes",
+            "E": "Dacrocytes"
+        },
+        "response": {
+            "0.0": "Based on the clinical findings and laboratory results presented for the 14-year-old boy, the most likely anticipated finding on a blood smear would be **(D) Spherocytes**. \n\nThe reasoning for this conclusion is as follows:\n\n1. **Mild Normocytic Anemia**: Indicates a reduction in red blood cell count, but the cells are of normal size.\n2. **Reticulocytosis**: Suggests that the bone marrow is responding to anemia by producing more red blood cells, which is typical in hemolytic conditions.\n3. **Indirect Hyperbilirubinemia**: Elevated levels of indirect bilirubin are indicative of increased breakdown of red blood cells, a hallmark of hemolysis.\n4. **Negative Coombs Test**: Rules out autoimmune hemolytic anemia, suggesting that the hemolysis is not due to antibody-mediated destruction.\n5. **Increased Osmotic Fragility**: This finding indicates that the red blood cells are more prone to lysis in hypotonic solutions, which is characteristic of hereditary spherocytosis.\n\nGiven these findings, the presence of **spherocytes** on the blood smear is a definitive indicator of hereditary spherocytosis, which aligns with the clinical picture and laboratory results. Other options such as dacrocytes, hypersegmented neutrophils, schistocytes, or sideroblasts are not relevant in this context.\n\nTherefore, the correct answer is **(D) Spherocytes**."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 34-year-old woman presents to the plastic surgery office 3 months following a rhinoplasty procedure. The patient has been recovering well. However, she has noticed a small whistling noise when she respires through her nose, which you appreciate on physical exam. Which of the following is the most likely cause of this phenomenon? Options: (C) A deviated septum that is now straight, resulting in altered nasal airflow (B) A septal hematoma causing a perforation (D) Excessive columellar show resulting in increased nasal airflow (A) Post-operative swelling (E) A fracture of the bony septum",
+        "label": "B",
+        "answer": "A septal hematoma causing a perforation",
+        "options": {
+            "A": "Post-operative swelling",
+            "B": "A septal hematoma causing a perforation",
+            "C": "A deviated septum that is now straight, resulting in altered nasal airflow",
+            "D": "Excessive columellar show resulting in increased nasal airflow",
+            "E": "A fracture of the bony septum"
+        },
+        "response": {
+            "0.0": "Let's analyze the situation step by step. The patient is experiencing a whistling noise when breathing through her nose after a rhinoplasty procedure. This symptom suggests that there is an abnormal airflow pattern through the nasal passages.\n\n1. **Post-operative swelling (A)**: While swelling can occur after surgery, it typically does not cause a whistling noise. Swelling would more likely lead to nasal obstruction rather than a whistling sound.\n\n2. **A fracture of the bony septum (E)**: A fracture could potentially lead to nasal obstruction or other issues, but it is less likely to cause a whistling noise unless it resulted in a significant structural change.\n\n3. **Excessive columellar show (D)**: This refers to the visibility of the columella (the tissue between the nostrils) and is unlikely to directly cause a whistling noise.\n\n4. **A deviated septum that is now straight (C)**: If the septum was previously deviated and is now straightened, it could alter airflow dynamics, but it would not typically cause a whistling noise.\n\n5. **A septal hematoma causing a perforation (B)**: A septal hematoma can lead to a perforation of the septum, which can create an abnormal airflow pattern and result in a whistling noise during respiration.\n\nGiven these considerations, the most likely cause of the whistling noise in this patient is:\n\n**Answer: (B) A septal hematoma causing a perforation.**"
+        },
+        "difficulty": "basic"
+    },
+    {
+        "question": "Background:\nSome patients with severe asthma have frequent exacerbations associated with persistent eosinophilic inflammation despite continuous treatment with high-dose inhaled glucocorticoids with or without oral glucocorticoids.\nMethods:\nIn this randomized, double-blind clinical trial we assigned 576 patients with recurrent asthma exacerbations and evidence of eosinophilic inflammation despite high doses of inhaled glucocorticoids to one of three study groups. Patients were assigned to receive mepolizumab, a humanized monoclonal antibody against interleukin-5, which was administered as either a 75-mg intravenous dose or a 100-mg subcutaneous dose or placebo every 4 weeks for 32 weeks. The primary outcome was the rate of exacerbations. Other outcomes included the forced expiratory volume in 1 second (FEV1) and scores on the St. George\u2019s Respiratory Questionnaire (SGRQ) and the 5-item Asthma Control Questionnaire (ACQ-5).\nResults:\nThe rate of exacerbations was reduced by 47% (95% confidence interval [CI], 29 to 61) among patients receiving intravenous mepolizumab and by 53% (95% CI, 37 to 65) among those receiving subcutaneous mepolizumab, as compared with those receiving placebo (p<0.001 for both comparisons). Exacerbations necessitating an emergency department visit or hospitalization were reduced by 32% in the group receiving intravenous mepolizumab and by 61% in the group receiving subcutaneous mepolizumab. At week 32, the mean increase from baseline in FEV1 was 100 ml greater in patients receiving intravenous mepolizumab than in those receiving placebo (p=0.02) and 98 ml greater in patients receiving subcutaneous mepolizumab than in those receiving placebo (p=0.03). The improvement from baseline in the SGRQ score was 6.4 points and 7.0 points greater in the intravenous and subcutaneous mepolizumab groups, respectively than in the placebo group, and the improvement in the ACQ-5 score was 0.42 points and 0.44 points greater in the two mepolizumab groups, respectively than in the placebo group (p<0.001 for all comparisons).\nConclusions:\nMepolizumab administered either intravenously or subcutaneously significantly reduced asthma exacerbations and was associated with improvements in markers of asthma control.\nGiven the original research abstract above, which of the following would be true if the authors had inadvertently encountered a type 1 error? Options: (C) A type 1 error occurs when the null hypothesis is false, yet is accepted in error. (A) A type 1 error means the study is not significantly powered to detect a true difference between study groups. (E) A type 1 error is dependent on the confidence interval of a study. (B) A type 1 error occurs when the null hypothesis is true but is rejected in error. (D) A type 1 error is a beta (\u03b2) error and is usually 0.1 or 0.2.",
+        "label": "B",
+        "answer": "A type 1 error occurs when the null hypothesis is true but is rejected in error.",
+        "options": {
+            "A": "A type 1 error means the study is not significantly powered to detect a true difference between study groups.",
+            "B": "A type 1 error occurs when the null hypothesis is true but is rejected in error.",
+            "C": "A type 1 error occurs when the null hypothesis is false, yet is accepted in error.",
+            "D": "A type 1 error is a beta (\u03b2) error and is usually 0.1 or 0.2.",
+            "E": "A type 1 error is dependent on the confidence interval of a study."
+        },
+        "response": {
+            "0.0": "Let's analyze the options step by step to determine which statement is true regarding a type 1 error.\n\n1. **Understanding Type 1 Error**: A type 1 error occurs when the null hypothesis is true, but the researchers incorrectly reject it, concluding that there is a significant effect or difference when there is none.\n\nNow, let's evaluate each option:\n\n- **(C) A type 1 error occurs when the null hypothesis is false, yet is accepted in error.**  \n  This statement is incorrect. This describes a type 2 error, not a type 1 error.\n\n- **(A) A type 1 error means the study is not significantly powered to detect a true difference between study groups.**  \n  This statement is misleading. A type 1 error is not about the power of the study; it is about incorrectly rejecting a true null hypothesis.\n\n- **(E) A type 1 error is dependent on the confidence interval of a study.**  \n  This statement is partially true, as the significance level (alpha) is related to the confidence interval, but it does not accurately define a type 1 error.\n\n- **(B) A type 1 error occurs when the null hypothesis is true but is rejected in error.**  \n  This statement is correct. It accurately describes a type 1 error.\n\n- **(D) A type 1 error is a beta (\u03b2) error and is usually 0.1 or 0.2.**  \n  This statement is incorrect. A type 1 error is denoted by alpha (\u03b1), not beta (\u03b2), which refers to a type 2 error.\n\nGiven this analysis, the correct answer is:\n\n**Answer: (B) A type 1 error occurs when the null hypothesis is true but is rejected in error.**"
+        },
+        "difficulty": "basic"
+    },
+    {
+        "question": "A 61-year-old man with schizophrenia in a locked inpatient psychiatry unit was observed making an unusual smacking motion with his lips, pursing his mouth, and blinking excessively. These symptoms started slowly about 2 weeks ago and have become more pronounced, but they do not seem to bother the patient. He resides in an inpatient psychiatric facility where he has been successfully treated with haloperidol for the past several months. His physical exam and vitals are within normal limits. Which of the following accurately describes his symptoms? Options: (B) Tardive dyskinesia (D) Pseudoparkinsonism (C) Acute dystonia (E) Palsy (A) Akathisia",
+        "label": "B",
+        "answer": "Tardive dyskinesia",
+        "options": {
+            "A": "Akathisia",
+            "B": "Tardive dyskinesia",
+            "C": "Acute dystonia",
+            "D": "Pseudoparkinsonism",
+            "E": "Palsy"
+        },
+        "response": {
+            "0.0": "Let's analyze the symptoms presented in the question step by step.\n\nThe patient is exhibiting:\n- Unusual smacking motion with his lips\n- Pursing of his mouth\n- Excessive blinking\n\nThese symptoms have developed slowly over the course of 2 weeks and have become more pronounced, but they do not seem to bother the patient. \n\nGiven that the patient has been treated with haloperidol, which is an antipsychotic medication, we need to consider the side effects associated with long-term use of antipsychotics. \n\n1. **Tardive dyskinesia** is characterized by involuntary, repetitive movements, often involving the face (such as lip smacking), and can occur after prolonged use of antipsychotic medications. The slow onset and the nature of the movements described fit this condition well.\n\n2. **Pseudoparkinsonism** involves symptoms like tremors, rigidity, and bradykinesia, which are not described in this case.\n\n3. **Acute dystonia** typically presents with sustained muscle contractions and abnormal postures, which does not match the symptoms here.\n\n4. **Palsy** is a general term for paralysis or weakness and does not apply to the symptoms described.\n\n5. **Akathisia** is characterized by a feeling of inner restlessness and an uncontrollable need to be in constant motion, which is not consistent with the lip smacking and blinking.\n\nBased on this analysis, the symptoms described in the patient are most consistent with **tardive dyskinesia**.\n\nAnswer: (B) Tardive dyskinesia"
+        },
+        "difficulty": "basic"
+    },
+    {
+        "question": "A 21-month-old boy is brought to the physician for a well-child examination. His mother noticed deformities in both of his legs since he started walking independently. He has been healthy apart from an upper respiratory tract infection 6 months ago. He was delivered at 38 weeks' gestation. His 6-year-old sister was treated for developmental dysplasia of the hip. He can kick a ball and say a 2-word phrase. He plays well with other children at his day care. His immunizations are up-to-date. He is at the 40th percentile for height and 50th percentile for weight. Vital signs are within normal limits. Examination shows closed anterior and posterior fontanelles. The knees do not stay together when both the feet and ankles are placed together. The gait is unremarkable. The mother is concerned that he has a growth disorder. Which of the following is the most appropriate next step in management? Options: (B) Reassurance and follow-up (A) Vitamin D supplementation (E) Tibial osteotomy (C) X-ray of the lower extremities (D) Bracing of the lower extremities",
+        "label": "B",
+        "answer": "Reassurance and follow-up",
+        "options": {
+            "A": "Vitamin D supplementation",
+            "B": "Reassurance and follow-up",
+            "C": "X-ray of the lower extremities",
+            "D": "Bracing of the lower extremities",
+            "E": "Tibial osteotomy"
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the pediatrician, orthopedic surgeon, and medical geneticist, it is clear that all three experts agree on the necessity of obtaining an X-ray of the lower extremities as the most appropriate next step in management. They emphasize the importance of imaging to differentiate between physiological bowing and potential underlying conditions such as rickets or Blount's disease.\n\nGiven that all three agents unanimously support option (C) X-ray of the lower extremities, the final decision is:\n\n**(C) X-ray of the lower extremities.**"
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A 60-year-old female patient with a history of hypertension presents to an outpatient office for regular check-up and is found to have hypertriglyceridemia. Her physician prescribes high-dose niacin and recommends taking the medication along with aspirin. The side effect the physician is trying to avoid is thought to be mediated by what mechanism? Options: (A) Bile deposition in the dermis (E) T cell activation (D) Mast cell degranulation (C) Release of prostaglandins (B) Immune complex formation",
+        "label": "C",
+        "answer": "Release of prostaglandins",
+        "options": {
+            "A": "Bile deposition in the dermis",
+            "B": "Immune complex formation",
+            "C": "Release of prostaglandins",
+            "D": "Mast cell degranulation",
+            "E": "T cell activation"
+        },
+        "response": {
+            "0.0": "Let's analyze the question step by step. \n\nNiacin (vitamin B3) is known to cause flushing and other side effects, which are often attributed to the release of prostaglandins. When niacin is taken, it can lead to the release of prostaglandins, which cause vasodilation and the flushing sensation. \n\nAspirin is often recommended to be taken with niacin to mitigate this flushing effect because aspirin inhibits the cyclooxygenase (COX) enzymes, which are responsible for the production of prostaglandins.\n\nGiven this information, the side effect that the physician is trying to avoid (flushing) is thought to be mediated by:\n\nAnswer: (C) Release of prostaglandins"
+        },
+        "difficulty": "basic"
+    },
+    {
+        "question": "A 58-year-old male presents with an acutely elevated blood pressure of 220/140 mmHg. The patient complains of a headache and chest pain, and he has been vomiting for the last several hours. Physical exam demonstrates papilledema and a depressed level of consciousness. To treat this patient's hypertensive emergency, he is started on an IV medication commonly used in this situation. The agent exerts its effect by releasing nitric oxide as a metabolite, which subsequently activates guanylate cyclase and increases production of cGMP in vascular smooth muscle. Which of the following clinical effects would be expected from administration of this medication? Options: (A) Decreased cardiac contractility (D) Decreased pulmonary capillary wedge pressure (E) Increased systemic vascular resistance (B) Increased left ventricular end-diastolic pressure (C) Decreased stroke volume",
+        "label": "D",
+        "answer": "Decreased pulmonary capillary wedge pressure",
+        "options": {
+            "A": "Decreased cardiac contractility",
+            "B": "Increased left ventricular end-diastolic pressure",
+            "C": "Decreased stroke volume",
+            "D": "Decreased pulmonary capillary wedge pressure",
+            "E": "Increased systemic vascular resistance"
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the three medical experts, the majority consensus is clear. All three agents (the cardiologist, internist, and neurologist) agree on the expected clinical effect of administering the medication, which is sodium nitroprusside, in the context of a hypertensive emergency.\n\nThe unanimous conclusion from all three experts is that the expected clinical effect from administering this medication is:\n\n**(D) Decreased pulmonary capillary wedge pressure.**\n\nThis option aligns with the pharmacological action of the medication, which causes vasodilation and subsequently reduces pressures in the pulmonary circulation. Therefore, the final answer is:\n\n**(D) Decreased pulmonary capillary wedge pressure.**"
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A 63-year-old man is aiming to improve his health by eating a well balanced diet, walking daily, and quitting smoking following a 45-year smoking history. While on his daily walks he notices a strong cramping pain in his calves that consistently appears after a mile of walking. He sees his physician and a diagnosis of peripheral artery disease with intermittent claudication is made. To improve his symptoms, cilostazol is prescribed. What is the mechanism of action of this medication? Options: (E) Phosphodiesterase inhibitor (C) Thromboxane synthase inhibitor (B) Glycoprotein IIB/IIIA inhibitor (D) Adenosine diphosphate receptor inhibitor (A) Irreversible cyclooxygenase inhibitor",
+        "label": "E",
+        "answer": "Phosphodiesterase inhibitor",
+        "options": {
+            "A": "Irreversible cyclooxygenase inhibitor",
+            "B": "Glycoprotein IIB/IIIA inhibitor",
+            "C": "Thromboxane synthase inhibitor",
+            "D": "Adenosine diphosphate receptor inhibitor",
+            "E": "Phosphodiesterase inhibitor"
+        },
+        "response": {
+            "0.0": "Let's analyze the question step by step. The patient has been diagnosed with peripheral artery disease (PAD) and is experiencing intermittent claudication, for which cilostazol has been prescribed. \n\nCilostazol is known to improve symptoms of intermittent claudication by increasing blood flow to the affected muscles during exercise. The mechanism of action of cilostazol is that it is a phosphodiesterase (PDE) inhibitor. Specifically, it inhibits phosphodiesterase type 3 (PDE3), which leads to an increase in cyclic adenosine monophosphate (cAMP) levels in platelets and vascular smooth muscle. This results in vasodilation and inhibition of platelet aggregation.\n\nGiven the options provided, the correct answer is:\n\n(E) Phosphodiesterase inhibitor."
+        },
+        "difficulty": "basic"
+    },
+    {
+        "question": "A 69-year-old man presents to his primary care physician with hip and back pain. The patient states that this weekend he had a barbecue. When he was lifting a heavy object he suddenly felt pain in his lower back. He describes the pain as in his buttocks but states that at times it travels down his leg. The patient states that it feels, \"electrical.\" The patient has a past medical history of obesity, diabetes, depression, anxiety, diverticulosis, constipation, and a surgical repair of his anterior cruciate ligament. His current medications include metformin, insulin, lisinopril, fluoxetine, and sodium docusate. Which of the following is most likely to help confirm the diagnosis? Options: (D) Internal rotation of the extended hip (E) Radiography (B) Flexion, abduction, and external rotation of the thigh (A) Palpating the paraspinus muscle (C) Straight leg raise",
+        "label": "C",
+        "answer": "Straight leg raise",
+        "options": {
+            "A": "Palpating the paraspinus muscle",
+            "B": "Flexion, abduction, and external rotation of the thigh",
+            "C": "Straight leg raise",
+            "D": "Internal rotation of the extended hip",
+            "E": "Radiography"
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the orthopedic surgeon, neurologist, and physical medicine and rehabilitation specialist, it is clear that all three experts agree on the most appropriate test to confirm the diagnosis in this case. They all emphasize the significance of the **Straight Leg Raise test (C)** in assessing for lumbar radiculopathy, which aligns with the patient's symptoms of electrical pain radiating down the leg.\n\nGiven that all three agents unanimously selected option (C) Straight leg raise as the most likely to help confirm the diagnosis, the final answer is:\n\n**(C) Straight leg raise.**"
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A 35-year-old woman comes to the physician for genetic counseling prior to conception. Her younger brother has mild developmental delay, pale complexion, and has to limit his dietary intake of phenylalanine. She has no similar symptoms and is in good health. Her parents are healthy. Which of the following is the most appropriate assessment of her carrier status for the disease affecting her brother? Options: (E) 50% (D) 75% (A) 67% (C) 100% (B) 33%",
+        "label": "A",
+        "answer": "67%",
+        "options": {
+            "A": "67%",
+            "B": "33%",
+            "C": "100%",
+            "D": "75%",
+            "E": "50%"
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the medical geneticist, pediatrician, and genetic counselor, it is clear that all three experts agree on the assessment of the woman's carrier status for Phenylketonuria (PKU). They all conclude that the woman has a 67% chance of being a carrier based on the inheritance pattern of this autosomal recessive disorder, given that her brother is affected.\n\nThe majority opinion (100% agreement among the experts) supports the conclusion that the most appropriate assessment of her carrier status is:\n\n**(A) 67%.**"
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A 25-year-old man is brought to the emergency department after being found unconscious. He was at a college party exhibiting belligerent behavior when he suddenly passed out and fell to the ground. His past medical history is not known. His temperature is 100\u00b0F (37.8\u00b0C), blood pressure is 107/48 mmHg, pulse is 125/min, respirations are 19/min, and oxygen saturation is 99% on room air. The patient is covered with emesis and responds incoherently to questions. As the patient begins to wake up he continues vomiting. The patient is started on IV fluids, analgesics, and anti-emetics and begins to feel better. Thirty minutes later the patient presents with muscle rigidity and is no longer responding coherently to questions. His temperature is 103\u00b0F (39.4\u00b0C), blood pressure is 127/68 mmHg, pulse is 125/min, respirations are 18/min, and oxygen saturation is 98% on room air. The patient's basic laboratory studies are drawn and he is started on IV fluids, given lorazepam, and placed under a cooling blanket. Despite these initial measures, his symptoms persist. Which of the following is the best next step in management? Options: (B) Dantrolene (D) Intubation (A) Acetaminophen (C) Diazepam (E) Supportive therapy",
+        "label": "B",
+        "answer": "Dantrolene",
+        "options": {
+            "A": "Acetaminophen",
+            "B": "Dantrolene",
+            "C": "Diazepam",
+            "D": "Intubation",
+            "E": "Supportive therapy"
+        },
+        "response": {
+            "0.0": "The best next step in management for this patient, given the clinical presentation of fever, muscle rigidity, altered mental status, and the context of potential substance use, is (B) **Dantrolene**.\n\nThe patient's symptoms are highly suggestive of a hyperthermic syndrome, specifically Malignant Hyperthermia (MH) or Neuroleptic Malignant Syndrome (NMS). The initial supportive measures, including IV fluids, analgesics, anti-emetics, and cooling, have not alleviated the symptoms, and the patient continues to exhibit muscle rigidity and hyperthermia.\n\nDantrolene is the specific treatment for Malignant Hyperthermia, as it acts by inhibiting calcium release from the sarcoplasmic reticulum in skeletal muscle, effectively addressing the hypermetabolic state and muscle rigidity. Other options such as intubation, acetaminophen, and diazepam do not directly address the underlying hyperthermic crisis and are therefore not appropriate as the next step in management.\n\nIn summary, the immediate administration of Dantrolene is critical to mitigate the hypermetabolic state and prevent further complications associated with the suspected diagnosis."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 47-year-old executive schedules an appointment his physician for a routine medical check-up. He currently has no complaints and claims to be \u201cas fit as a fiddle.\u201d The physical examination findings are unremarkable, except for a mid-systolic murmur heard in the 2nd left intercostal space that radiates to the carotids on auscultation. The physician instructs the patient to stand from a supine position with the stethoscope still placed on his chest. Which of the following changes would occur with this maneuver? Options: (A) An increase in right atrial pressure (B) An increase in left ventricular end-diastolic pressure (E) A reduction in diastolic filling time (D) A reduction in the slope of the pacemaker potential (C) An increase in pulmonary capillary wedge pressure",
+        "label": "E",
+        "answer": "A reduction in diastolic filling time",
+        "options": {
+            "A": "An increase in right atrial pressure",
+            "B": "An increase in left ventricular end-diastolic pressure",
+            "C": "An increase in pulmonary capillary wedge pressure",
+            "D": "A reduction in the slope of the pacemaker potential",
+            "E": "A reduction in diastolic filling time"
+        },
+        "response": {
+            "0.0": "Based on the comprehensive analysis provided by the multidisciplinary teams regarding the hemodynamic changes that occur when a patient transitions from a supine to a standing position, the most accurate physiological response to this maneuver is:\n\n**(E) A reduction in diastolic filling time.**\n\nThis conclusion is supported by the following key points:\n\n1. **Decreased Venous Return**: When the patient stands, blood pools in the lower extremities, leading to a decrease in venous return to the heart.\n\n2. **Reduced Preload**: The decrease in venous return results in lower preload, which subsequently affects cardiac pressures, including right atrial pressure and left ventricular end-diastolic pressure, both of which decrease.\n\n3. **Compensatory Mechanisms**: To maintain cardiac output in response to decreased stroke volume, the heart compensates by increasing the heart rate. However, this increase in heart rate reduces the time available for diastolic filling, which is critical for effective cardiac function.\n\n4. **Evaluation of Other Options**: The other options (A, B, C, and D) are incorrect based on the findings:\n   - (A) Right atrial pressure decreases.\n   - (B) Left ventricular end-diastolic pressure decreases.\n   - (C) Pulmonary capillary wedge pressure decreases.\n   - (D) The slope of the pacemaker potential is not directly relevant to the hemodynamic changes during this position change.\n\nIn summary, the correct answer to the question regarding the changes that occur when the patient stands from a supine position is **(E) A reduction in diastolic filling time**."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 39-year-old African-American woman presents to the emergency room with hip pain. She has a past medical history significant for sarcoidosis which was recently diagnosed 6 months ago and is currently being treated. She reports that the pain started 2 weeks ago and is localized to the left hip and groin. The pain has been getting progressively more intense. Her temperature is 98.1\u00b0F (36.7\u00b0C), blood pressure is 122/78 mm Hg, pulse is 80/min, respirations are 13/min, and oxygen saturation is 98% on room air. Physical exam is notable for pain with manipulation without restriction of range of motion of the hip. Which of the following is the most sensitive test for this condition? Options: (B) MRI of the hip (C) Radiograph of the hip (E) Ultrasound of the hip (D) Radionuclide scan of the hip (A) CT of the hip",
+        "label": "B",
+        "answer": "MRI of the hip",
+        "options": {
+            "A": "CT of the hip",
+            "B": "MRI of the hip",
+            "C": "Radiograph of the hip",
+            "D": "Radionuclide scan of the hip",
+            "E": "Ultrasound of the hip"
+        },
+        "response": {
+            "0.0": "Let's analyze the situation step by step. The patient is a 39-year-old African-American woman with a history of sarcoidosis presenting with hip pain that has been progressively worsening over the past two weeks. The physical exam shows pain with manipulation of the hip but no restriction of range of motion.\n\nGiven her history of sarcoidosis, one potential concern is avascular necrosis (AVN) of the hip, which can occur in patients with conditions that affect blood flow, including sarcoidosis. \n\nTo determine the most sensitive test for detecting avascular necrosis, we can consider the following options:\n\n- **MRI of the hip (B)**: MRI is the most sensitive imaging modality for detecting early changes of avascular necrosis, as it can identify changes in the bone marrow and soft tissue that occur before changes are visible on X-rays.\n\n- **Radiograph of the hip (C)**: X-rays are often the first imaging study performed, but they may not show early changes of avascular necrosis.\n\n- **Ultrasound of the hip (E)**: While ultrasound can be useful for certain conditions, it is not the most sensitive test for avascular necrosis.\n\n- **Radionuclide scan of the hip (D)**: This can detect changes in bone metabolism but is less commonly used for diagnosing avascular necrosis compared to MRI.\n\n- **CT of the hip (A)**: CT can provide detailed images of the bone but is not as sensitive as MRI for early detection of avascular necrosis.\n\nBased on this analysis, the most sensitive test for detecting avascular necrosis in this patient is:\n\n**Answer: (B) MRI of the hip**."
+        },
+        "difficulty": "basic"
+    },
+    {
+        "question": "A 74-year-old man undergoes an open cholecystectomy. Surgery is performed under general anesthesia for which the patient is intubated with an endotracheal tube. Directly following the procedure, his temperature is 37\u00b0C (98.6\u00b0F), pulse is 80/min, and blood pressure is 110/80 mm Hg. He is extubated as soon as he showed signs of alertness. Five minutes later, he becomes unresponsive. He has type 2 diabetes mellitus, coronary artery disease, and hypertension. He underwent stenting of the right coronary artery 10 years ago. He smoked one pack of cigarettes daily for 40 years but quit 2 weeks ago for surgery. He drinks one to two beers daily. His current medications include metformin, enalapril, aspirin, atorvastatin, and a multivitamin. His temperature is 37\u00b0C (98.6\u00b0F), pulse is 102/min, respirations are 20/min, and blood pressure is 130/80 mm Hg. Pulse oximetry shows an oxygen saturation of 73%. He is put on a non-rebreather mask with an FiO2 of 100%. Three minutes later, he is still unresponsive. His arterial blood gas analysis shows:\npH 7.32\nPCO2 33 mm Hg\nPO2 73 mm Hg\nHCO3 22 mEq/L\nO2 saturation 73%\nWhich of the following is the best next step in the management of this patient?\" Options: (E) Start BiPAP (D) Close observation only (A) Perform tracheostomy (B) Continue using the non-rebreather mask (C) Reintubate",
+        "label": "C",
+        "answer": "Reintubate",
+        "options": {
+            "A": "Perform tracheostomy",
+            "B": "Continue using the non-rebreather mask",
+            "C": "Reintubate",
+            "D": "Close observation only",
+            "E": "Start BiPAP"
+        },
+        "response": {
+            "0.0": "The best next step in the management of this patient is **(C) Reintubate**.\n\nGiven the patient's critical condition characterized by unresponsiveness and severe hypoxemia (oxygen saturation of 73% despite 100% FiO2), reintubation is necessary for the following reasons:\n\n1. **Airway Security:** The patient's unresponsiveness poses a significant risk for airway obstruction and aspiration. Reintubation will secure the airway and prevent further deterioration.\n\n2. **Ventilation Support:** The arterial blood gas analysis indicates acidosis (pH 7.32) and severe hypoxemia (PO2 73 mm Hg). Reintubation will allow for controlled mechanical ventilation, which is critical to ensure adequate gas exchange and correct the respiratory failure.\n\n3. **Ineffectiveness of Current Treatment:** The non-rebreather mask has failed to improve oxygenation after three minutes, indicating that further non-invasive measures (like BiPAP) would not be effective given the patient's unresponsive state.\n\nIn summary, reintubation is the most appropriate and urgent intervention to stabilize the patient's respiratory status and address the life-threatening aspects of his condition."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 38-year-old woman presents to her primary care physician for her yearly exam. Her only complaint is difficulty losing weight. Her BMI is 34 kg/m^2. In addition to a standard physical exam, the physician orders a glucose tolerance test. The woman's fasting blood glucose level is 120 mg/dL and two-hour post 75g glucose load blood glucose level is 190 mg/dL. The physician informs the patient that she is \"pre-diabetic\" or at risk of developing diabetes and recommends lifestyle modification with follow-up in 6 months. Which of the following endogenous signaling molecules or receptors will increase insulin sensitivity in this patient? Options: (E) TNF-alpha (D) Peroxisome proliferator-activated receptor gamma (A) Catecholamines (C) Glucocorticoids (B) Glucagon",
+        "label": "D",
+        "answer": "Peroxisome proliferator-activated receptor gamma",
+        "options": {
+            "A": "Catecholamines",
+            "B": "Glucagon",
+            "C": "Glucocorticoids",
+            "D": "Peroxisome proliferator-activated receptor gamma",
+            "E": "TNF-alpha"
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the three medical experts, it is clear that there is a unanimous agreement among them regarding the correct answer to the question about which endogenous signaling molecule or receptor will increase insulin sensitivity in the patient described.\n\nAll three agents (the endocrinologist, nutritionist/dietitian, and pharmacologist) have identified **(D) Peroxisome proliferator-activated receptor gamma (PPAR-\u03b3)** as the correct choice. They provided consistent reasoning that PPAR-\u03b3 plays a crucial role in enhancing insulin sensitivity, particularly in the context of obesity and pre-diabetes, and they all noted that the other options listed (TNF-alpha, catecholamines, glucocorticoids, and glucagon) are associated with decreased insulin sensitivity.\n\nGiven this consensus, the final answer is:\n\n**(D) Peroxisome proliferator-activated receptor gamma (PPAR-\u03b3)**."
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A 21-year-old woman presents to the emergency room with right arm pain and limited range of motion. She does not recall trauma to the arm. She also complains of diarrhea and nausea. She is sexually active with one male partner and admits to having pain during intercourse. There is vague and diffuse tenderness to palpation in all four abdominal quadrants. No erythema or edema is noted on the right arm. The fecal occult test is negative. Past records show that this patient has been in the ER 7 times in the past year with similar symptoms. Which of the following is the most likely diagnosis? Options: (C) Somatization disorder (D) Somatoform pain disorder (A) Ulcerative colitis (E) Conversion disorder (B) Illness anxiety disorder",
+        "label": "C",
+        "answer": "Somatization disorder",
+        "options": {
+            "A": "Ulcerative colitis",
+            "B": "Illness anxiety disorder",
+            "C": "Somatization disorder",
+            "D": "Somatoform pain disorder",
+            "E": "Conversion disorder"
+        },
+        "response": {
+            "0.0": "Based on the comprehensive analysis and the details provided in the reports, the most likely diagnosis for the patient is **(D) Somatoform pain disorder**. \n\nThis conclusion is supported by the following key points:\n\n1. **Chronic Pain Complaints**: The patient has a history of recurrent pain complaints, particularly in the right arm, without any identifiable organic cause, which aligns with the characteristics of somatoform pain disorder.\n\n2. **Absence of Organic Findings**: The negative fecal occult blood test and the lack of significant physical findings (no erythema or edema) suggest that the symptoms are not due to a physiological condition like ulcerative colitis.\n\n3. **Psychosocial Factors**: The presence of pain during intercourse and the vague abdominal tenderness indicate that psychological factors may be contributing to her physical symptoms, which is a hallmark of somatoform pain disorder.\n\n4. **Differential Diagnosis**: Other options such as somatization disorder, conversion disorder, and illness anxiety disorder do not fit as precisely as somatoform pain disorder, given the primary focus on pain and the absence of neurological symptoms or excessive worry about illness.\n\nIn summary, the diagnosis of **Somatoform pain disorder** is the most appropriate given the patient's symptomatology and the findings from the multidisciplinary team assessments."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 12-year-old boy is brought to the emergency department for the evaluation of persistent bleeding from his nose over the past hour. The bleeding started spontaneously. He has no history of a similar episode. He takes no medications. There is no history of abnormal bleeding in the family. His vital signs are within normal limits. On examination, he is pressing a gauze against his left nostril while hyperextending his head. The gauze is stained with blood and upon withdrawal of the gauze blood slowly drips out of his left nostrils. There is no bleeding from the right nostril. The remainder of the physical examination shows no abnormalities. Which of the following is the most appropriate initial therapy? Options: (B) Oxymetazoline nasal spray (A) Anterior packing and topical antibiotics (D) Silver nitrate cauterization of the bleeding vessel and surrounding vessels (E) Squeezing the nostrils manually for 10 minutes with the head elevated (C) Placement of an epinephrine gauze in the left nostril",
+        "label": "E",
+        "answer": "Squeezing the nostrils manually for 10 minutes with the head elevated",
+        "options": {
+            "A": "Anterior packing and topical antibiotics",
+            "B": "Oxymetazoline nasal spray",
+            "C": "Placement of an epinephrine gauze in the left nostril",
+            "D": "Silver nitrate cauterization of the bleeding vessel and surrounding vessels",
+            "E": "Squeezing the nostrils manually for 10 minutes with the head elevated"
+        },
+        "response": {
+            "0.0": "Let's think step by step. The patient is a 12-year-old boy with a spontaneous nosebleed (epistaxis) from the left nostril. He is currently applying pressure to the area, which is a common first step in managing nosebleeds. However, since the bleeding is persistent, further intervention is needed.\n\n1. **Initial Management**: The first-line management for a nosebleed typically involves manual compression of the nostrils. This is done by pinching the nostrils together and leaning slightly forward to prevent blood from flowing down the throat.\n\n2. **Options Analysis**:\n   - (B) **Oxymetazoline nasal spray**: This is a vasoconstrictor that can help reduce bleeding but is not the first step in management.\n   - (A) **Anterior packing and topical antibiotics**: This is a more advanced intervention that may be necessary if bleeding does not stop with initial measures.\n   - (D) **Silver nitrate cauterization**: This is used for persistent bleeding after initial measures have failed.\n   - (E) **Squeezing the nostrils manually for 10 minutes with the head elevated**: This is the standard initial management for epistaxis.\n   - (C) **Placement of an epinephrine gauze**: This is also a more advanced intervention and not the first step.\n\nGiven that the boy is already applying pressure, the most appropriate initial therapy would be to continue with manual compression of the nostrils for 10 minutes while keeping the head elevated.\n\nTherefore, the answer is: **(E) Squeezing the nostrils manually for 10 minutes with the head elevated.**"
+        },
+        "difficulty": "basic"
+    },
+    {
+        "question": "A 33-year-old man presents to the infectious diseases clinic for follow-up. He was recently admitted to the hospital with fever, shortness of breath, and cough, and was found to have Pneumocystic jirovecii pneumonia and a new diagnosis of HIV. His CD4 count is 175, viral load is pending. As part of routine laboratory studies given his new diagnosis, an RPR was found to be positive with a titer of 1:64, and this is confirmed with a positive FTA-ABS. He is unsure when or how he acquired HIV or syphilis. His neurological examination is normal, and he has no symptoms. Which of the following is the most appropriate next step in management: Options: (A) Perform lumbar puncture, treat based on presence or absence of CNS disease (E) Treat with a single injection of penicillin, obtain titers in 6 months (D) Treat with a single injection of penicillin, obtain titers in 3 months (C) Treat with three weekly injections of penicillin, obtain titers in 6 months (B) Treat with three weekly injections of penicillin, obtain titers in 3 months",
+        "label": "C",
+        "answer": "Treat with three weekly injections of penicillin, obtain titers in 6 months",
+        "options": {
+            "A": "Perform lumbar puncture, treat based on presence or absence of CNS disease",
+            "B": "Treat with three weekly injections of penicillin, obtain titers in 3 months",
+            "C": "Treat with three weekly injections of penicillin, obtain titers in 6 months",
+            "D": "Treat with a single injection of penicillin, obtain titers in 3 months",
+            "E": "Treat with a single injection of penicillin, obtain titers in 6 months"
+        },
+        "response": {
+            "0.0": "The most appropriate next step in the management of this patient, who has been diagnosed with secondary syphilis (as indicated by a positive RPR titer of 1:64 and a confirmed positive FTA-ABS) and is also HIV-positive with a CD4 count of 175, is:\n\n**(D) Treat with a single injection of penicillin, obtain titers in 3 months.**\n\n### Rationale:\n1. **Diagnosis Confirmation**: The patient has a confirmed diagnosis of secondary syphilis, which requires prompt treatment to prevent complications.\n  \n2. **Treatment Protocol**: The standard treatment for secondary syphilis is a single injection of Benzathine penicillin G. This is effective in eradicating the infection.\n\n3. **Follow-Up**: Given the patient's HIV status, closer monitoring is warranted. Obtaining titers in 3 months is appropriate to ensure treatment effectiveness and to monitor for any potential complications related to his HIV status.\n\n4. **Neurological Considerations**: The patient does not exhibit any neurological symptoms, and a neurological examination is normal, which reduces the need for a lumbar puncture to assess for neurosyphilis at this time.\n\nIn summary, option (D) aligns with current clinical guidelines for managing secondary syphilis in an HIV-positive patient, ensuring effective treatment and appropriate follow-up."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 17-year-old woman presents to your office concerned that she has not had her menstrual period in 4 months. She states that menses began at age of 13 and has been regular until two months ago. She denies sexual activity, and urine pregnancy test is negative. On exam, she appears well-nourished with a BMI of 21 kg/m^2, but you note that she has enlarged cheeks bilaterally and has calluses on the dorsum of her hands. She says that she has been very stressed with school and has recently been binge eating. What other finding do you expect to see in this patient? Options: (A) Malar rash (D) Enlarged thyroid (E) Elevated estrogen levels (B) Increased blood glucose level (C) Erosion of tooth enamel",
+        "label": "C",
+        "answer": "Erosion of tooth enamel",
+        "options": {
+            "A": "Malar rash",
+            "B": "Increased blood glucose level",
+            "C": "Erosion of tooth enamel",
+            "D": "Enlarged thyroid",
+            "E": "Elevated estrogen levels"
+        },
+        "response": {
+            "0.0": "Let's analyze the information provided step by step.\n\nThe patient is a 17-year-old woman who has not had her menstrual period for 4 months, has enlarged cheeks (which could indicate facial swelling or \"moon facies\"), and calluses on the dorsum of her hands. She has been binge eating and is under stress, which suggests a possible eating disorder, specifically bulimia nervosa.\n\nIn bulimia nervosa, patients often engage in binge eating followed by compensatory behaviors such as vomiting, which can lead to specific dental findings. One common dental manifestation of bulimia is erosion of tooth enamel due to the exposure of teeth to stomach acid from vomiting.\n\nGiven this context, the most likely additional finding you would expect to see in this patient is:\n\nAnswer: (C) Erosion of tooth enamel."
+        },
+        "difficulty": "basic"
+    },
+    {
+        "question": "A 3rd year resident in good standing with his residency training program would like to work more hours outside his residency obligations to gain more experience and pay for his medical school loans. He currently works and trains 60 hours per week as a resident and has a 10-hour shift external to his residency program on Saturdays. He is free of any educational and work obligations on Sundays. Based on the most recent standards set by the Accreditation Council for Graduate Medical Education (ACGME), which of the following is the most accurate statement regarding this resident\u2019s moonlighting and patient safety? Options: (D) He may work more hours on Sundays (C) He may work longer shifts (E) He may work up to 20 more hours (A) He is already overcommitting and must reduce the number of hours (B) He is not allowed to work outside the scope of his residency training",
+        "label": "C",
+        "answer": "He may work longer shifts",
+        "options": {
+            "A": "He is already overcommitting and must reduce the number of hours",
+            "B": "He is not allowed to work outside the scope of his residency training",
+            "C": "He may work longer shifts",
+            "D": "He may work more hours on Sundays",
+            "E": "He may work up to 20 more hours"
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the medical educator, hospital administrator, and occupational health specialist, the majority of the agents (the hospital administrator and occupational health specialist) agree that the most accurate statement regarding the resident's moonlighting and patient safety is:\n\n(A) He is already overcommitting and must reduce the number of hours.\n\nWhile the medical educator acknowledges that the resident has not yet reached the 80-hour limit set by ACGME, the emphasis from the other two agents is on the importance of resident well-being and patient safety, suggesting that the resident should not take on additional hours due to the potential risks involved.\n\nTherefore, the final answer is:\n\n**(A) He is already overcommitting and must reduce the number of hours.**"
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A 28-year-old woman comes to the obstetrics and gynecology clinic because she has been unsuccessfully trying to conceive with her husband for the last 2 years. He has had 2 children from a previous marriage and has been tested for causes of male infertility. She has had prior abdominal surgery as well as a family history of endocrine abnormalities. Based on this history, a panel of tests are obtained and treatment is started. This treatment will be administered intermittently one week before her normal menstrual cycle. If the most likely drug prescribed in this case was administered in a different manner, which of the following conditions may also be treated by this drug? Options: (D) Premature labor (A) Diabetes (C) Polycystic ovarian syndrome (E) Prostate cancer (B) Parkinson disease",
+        "label": "E",
+        "answer": "Prostate cancer",
+        "options": {
+            "A": "Diabetes",
+            "B": "Parkinson disease",
+            "C": "Polycystic ovarian syndrome",
+            "D": "Premature labor",
+            "E": "Prostate cancer"
+        },
+        "response": {
+            "majority": {
+                "0.0": "To determine the final answer based on the majority opinion of the agents, we can summarize their responses:\n\n1. **Obstetrician**: Suggested that the drug is likely progesterone and indicated that it could be used for (D) Premature labor.\n2. **Endocrinologist**: Also suggested progesterone and indicated that it could be used for (D) Premature labor.\n3. **Reproductive Medicine Specialist**: Suggested that the drug is likely progesterone but indicated that it could be used for (C) Polycystic ovarian syndrome.\n\nNow, let's count the votes:\n- **(D) Premature labor**: 2 votes (from the obstetrician and endocrinologist)\n- **(C) Polycystic ovarian syndrome**: 1 vote (from the reproductive medicine specialist)\n\nSince the majority of the agents (2 out of 3) indicated that the drug could be used for (D) Premature labor, the final decision will reflect this majority opinion.\n\n**Final Answer: (D) Premature labor.**"
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A 68-year-old man presents to the emergency department with confusion. The patient lives in a nursing home and has Alzheimer dementia at baseline. His nurse noticed that he was more confused than usual and was somnolent for the past 12 hours. The patient\u2019s nurse also noticed that he was soiling his diapers more frequently with copious amounts of urine. The patient has lost 15 pounds since his last physician appointment 3 weeks ago. Laboratory values are ordered as seen below.\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 4.3 mEq/L\nHCO3-: 25 mEq/L\nBUN: 20 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.1 mg/dL\nCa2+: 12.2 mg/dL\nPTH: 8 pg/mL\n\nThe patient is referred to another physician for a more thorough workup including laboratory work and CT imaging. Which of the following is the best long-term prophylaxis for the cause of this patient\u2019s acute symptoms? Options: (E) Teriparatide (C) Furosemide (A) Alendronate (B) Calcitonin (D) IV fluids",
+        "label": "A",
+        "answer": "Alendronate",
+        "options": {
+            "A": "Alendronate",
+            "B": "Calcitonin",
+            "C": "Furosemide",
+            "D": "IV fluids",
+            "E": "Teriparatide"
+        },
+        "response": {
+            "0.0": "Based on the comprehensive analysis of the patient's condition, the best long-term prophylaxis for the cause of this patient's acute symptoms, which are indicative of hypercalcemia likely related to malignancy, is **(A) Alendronate**. \n\nAlendronate is a bisphosphonate that effectively reduces serum calcium levels by inhibiting osteoclast-mediated bone resorption, making it suitable for managing hypercalcemia associated with malignancy. The patient's suppressed parathyroid hormone (PTH) level further supports the diagnosis of secondary hypercalcemia, likely due to malignancy, rather than primary hyperparathyroidism.\n\nOther options such as Teriparatide are contraindicated in hypercalcemia, Furosemide and IV fluids are more appropriate for acute management rather than long-term treatment, and Calcitonin is not suitable for long-term management due to rapid development of tachyphylaxis.\n\nTherefore, the correct answer is **(A) Alendronate**."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A one-week-old, full-term infant born by uncomplicated vaginal delivery is brought to a pediatrician by his mother, who notes that her daughter's skin appears yellow. She reports that the child cries several times per day and sleeps 7-8 hours at night, uninterrupted. She has been breastfeeding exclusively and feels that he has been feeding well. Which of the following is the best treatment for this condition? Options: (E) Continue normal breast feeding (C) Plasma exchange (B) Phenobarbital administration (D) Switch from breast milk to formula (A) Phototherapy",
+        "label": "E",
+        "answer": "Continue normal breast feeding",
+        "options": {
+            "A": "Phototherapy",
+            "B": "Phenobarbital administration",
+            "C": "Plasma exchange",
+            "D": "Switch from breast milk to formula",
+            "E": "Continue normal breast feeding"
+        },
+        "response": {
+            "0.0": "Let's analyze the situation step by step.\n\n1. **Patient Profile**: The patient is a one-week-old, full-term infant who is exclusively breastfed and presents with jaundice (yellowing of the skin).\n\n2. **Symptoms**: The mother reports that the infant cries several times a day and sleeps well at night. The infant appears to be feeding well.\n\n3. **Jaundice in Newborns**: Jaundice in newborns is common and can be due to several causes, including physiological jaundice, breastfeeding jaundice, or pathological jaundice. In this case, the infant is one week old and has been breastfeeding well, which suggests that the jaundice may be physiological or related to breastfeeding.\n\n4. **Physiological Jaundice**: This typically occurs in the first week of life due to the immature liver's inability to process bilirubin efficiently. It usually resolves on its own.\n\n5. **Breastfeeding Jaundice**: This can occur if the infant is not feeding well, leading to dehydration and decreased bilirubin elimination. However, since the infant is feeding well, this is less likely.\n\n6. **Treatment Options**:\n   - (E) Continue normal breastfeeding: This is often recommended for physiological jaundice, as continued feeding can help with bilirubin elimination.\n   - (C) Plasma exchange: This is typically reserved for severe cases of hemolytic disease or very high bilirubin levels.\n   - (B) Phenobarbital administration: This is sometimes used for certain types of jaundice but is not the first-line treatment.\n   - (D) Switch from breast milk to formula: This is not typically necessary unless there is a concern about breastfeeding adequacy.\n   - (A) Phototherapy: This is used for significant hyperbilirubinemia to help reduce bilirubin levels.\n\nGiven that the infant is feeding well and is likely experiencing physiological jaundice, the best treatment option is to continue normal breastfeeding, as this will help with bilirubin elimination.\n\n**Final Answer**: (E) Continue normal breast feeding."
+        },
+        "difficulty": "basic"
+    },
+    {
+        "question": "A 45-year-old woman presents to the physician with a history of headache, palpitations, and episodic diaphoresis. She was diagnosed with hypertension in the past and is now regularly taking antihypertensive medication (amlodipine 10 mg once daily). She has had a diffuse thyroid swelling for the past 4 months. She complains of pain in the long bones of her arms and legs for the past 3 months. She is slightly built, appears thin, and is anxious and apprehensive. Her skin is moist and warm. Her weight is 45 kg (99.2 lb) and height is 146 cm (4 ft 7 in); BMI is 21.12 kg/m2. Her pulse is 116/min, the blood pressure is 196/102 mm Hg, the respiratory rate is 29/min, and the temperature is 37.2\u00b0C (99.0\u00b0F). Diffuse and firm thyromegaly is present. Her upper extremities exhibit fine tremors during an anxiety attack. The laboratory test results reveal elevated 24-hour urinary VMA and metanephrines. Serum epinephrine, calcitonin, and parathormone levels are also elevated. Hypercalcemia and hyperglycemia are also noted. Which of the following is the most likely diagnosis? Options: (E) Neurofibromatosis (A) Von Hippel-Lindau syndrome (C) Multiple endocrine neoplasia (MEN) 2A (D) Multiple endocrine neoplasia (MEN) 2B (B) Multiple endocrine neoplasia (MEN) 1",
+        "label": "C",
+        "answer": "Multiple endocrine neoplasia (MEN) 2A",
+        "options": {
+            "A": "Von Hippel-Lindau syndrome",
+            "B": "Multiple endocrine neoplasia (MEN) 1",
+            "C": "Multiple endocrine neoplasia (MEN) 2A",
+            "D": "Multiple endocrine neoplasia (MEN) 2B",
+            "E": "Neurofibromatosis"
+        },
+        "response": {
+            "0.0": "Based on the comprehensive analysis of the patient's clinical presentation, laboratory findings, and the exclusion of other potential diagnoses, the most likely diagnosis is **(C) Multiple Endocrine Neoplasia (MEN) 2A**.\n\n### Rationale:\n1. **Clinical Symptoms**: The patient exhibits symptoms consistent with catecholamine excess (headaches, palpitations, diaphoresis), which are indicative of pheochromocytoma, a key component of MEN 2A.\n2. **Thyroid Findings**: The presence of diffuse thyroid swelling and elevated calcitonin levels suggests medullary thyroid carcinoma, another hallmark of MEN 2A.\n3. **Hyperparathyroidism**: The elevated parathyroid hormone levels and hypercalcemia align with primary hyperparathyroidism, which is also part of MEN 2A.\n4. **Laboratory Results**: The elevated 24-hour urinary VMA and metanephrines confirm catecholamine secretion, supporting the diagnosis of pheochromocytoma. Elevated calcitonin levels further support the diagnosis of medullary thyroid carcinoma.\n\n### Exclusion of Other Options:\n- **(D) MEN 2B**: This syndrome is characterized by mucosal neuromas and aggressive medullary thyroid carcinoma, which are not present in this case.\n- **(B) MEN 1**: This syndrome involves different endocrine tumors (e.g., insulinomas, gastrinomas) that do not align with the current findings.\n- **(A) Von Hippel-Lindau syndrome**: This condition does not typically involve elevated calcitonin or parathyroid hormone and is characterized by different tumors.\n- **(E) Neurofibromatosis**: This condition does not present with the specific endocrine abnormalities observed in this patient.\n\n### Conclusion:\nThe combination of pheochromocytoma, medullary thyroid carcinoma, and primary hyperparathyroidism strongly supports the diagnosis of **Multiple Endocrine Neoplasia Type 2A (MEN 2A)**. Therefore, the correct answer is **(C) Multiple endocrine neoplasia (MEN) 2A**."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "In a study to determine the risk factors for myocardial infarction (MI) at a young age (age < 30 years), 30 young patients with the condition are recruited into the study group. Sixty similar but healthy individuals are recruited into the control group. Educational status is considered to be an important variable, as it would affect the awareness of the disease and its risk factors among the participants. Based on the level of education, 2 groups are formed: low educational status and high educational status. A chi-square test is performed to test the significance of the relationship, and an odds ratio of 2.1 was computed for the association between low education and the risk of MI, with a confidence interval of 0.9\u20139.7. What inference can be made on the association between young age MI and educational status from this study? Options: (C) The association is not statistically significant, but low education is a risk factor. (E) The association is statistically significant, and low education is a risk factor. (A) The association is not statistically significant, and low education is not a risk factor. (D) One can not comment, as the p-value is not given. (B) The association is statistically significant, but low education is not a risk factor.",
+        "label": "A",
+        "answer": "The association is not statistically significant, and low education is not a risk factor.",
+        "options": {
+            "A": "The association is not statistically significant, and low education is not a risk factor.",
+            "B": "The association is statistically significant, but low education is not a risk factor.",
+            "C": "The association is not statistically significant, but low education is a risk factor.",
+            "D": "One can not comment, as the p-value is not given.",
+            "E": "The association is statistically significant, and low education is a risk factor."
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the three agents, it is clear that they all arrived at the same conclusion regarding the association between low educational status and the risk of myocardial infarction (MI) in young patients. \n\n1. **Cardiologist**: Concluded that the association is not statistically significant, but low education is a risk factor (C).\n2. **Epidemiologist**: Also concluded that the association is not statistically significant, but low education is a risk factor (C).\n3. **Public Health Expert**: Reached the same conclusion that the association is not statistically significant, but low education is a risk factor (C).\n\nGiven that all three experts unanimously agree on option (C), this represents a clear majority vote.\n\nFinal Answer: (C) The association is not statistically significant, but low education is a risk factor."
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A 26-year-old woman is brought to the emergency department 20 minutes after being involved in a high-speed motor vehicle collision in which she was a restrained passenger. On arrival, she is lethargic and incoherent. She has severe facial lacerations and is in respiratory distress. Her pulse is 130/min, respirations are 29/min, and blood pressure is 90/58 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 70%. Examination shows multiple facial lacerations. There is dullness to percussion and decreased breath sounds over the left lung base. Abdominal examination shows diffuse tenderness with no guarding or rebound. Bowel sounds are normal. The remainder of the examination shows no abnormalities. Her hemoglobin concentration is 12.1 g/dL. An x-ray of the chest shows a fractured left second rib, depression of the left mainstem bronchus, deviation of the nasogastric tube to the right, and a widened mediastinum. Which of the following is the most likely diagnosis? Options: (D) Cardiac tamponade (A) Diaphragmatic rupture (C) Thoracic aortic rupture (E) Tension pneumothorax (B) Traumatic bronchial rupture",
+        "label": "C",
+        "answer": "Thoracic aortic rupture",
+        "options": {
+            "A": "Diaphragmatic rupture",
+            "B": "Traumatic bronchial rupture",
+            "C": "Thoracic aortic rupture",
+            "D": "Cardiac tamponade",
+            "E": "Tension pneumothorax"
+        },
+        "response": {
+            "0.0": "Based on the comprehensive evaluation of the clinical details, imaging findings, and the mechanism of injury, the most likely diagnosis for this patient is **(C) Thoracic aortic rupture**. \n\nThe key indicators supporting this diagnosis include:\n\n1. **Mechanism of Injury**: The high-speed motor vehicle collision is a significant risk factor for severe thoracic injuries, particularly vascular injuries such as aortic rupture.\n\n2. **Imaging Findings**: The chest X-ray shows a widened mediastinum, which is a classic sign of potential thoracic aortic injury. Additionally, the presence of rib fractures and depression of the left mainstem bronchus further supports the diagnosis of thoracic trauma.\n\n3. **Clinical Symptoms**: The patient exhibits severe respiratory distress (oxygen saturation of 70%), hypotension (blood pressure of 90/58 mm Hg), and tachycardia (pulse of 130/min). These vital signs are indicative of significant internal bleeding and shock, consistent with a traumatic aortic rupture.\n\n4. **Differential Diagnosis Considerations**: Other potential diagnoses such as cardiac tamponade, diaphragmatic rupture, tension pneumothorax, and traumatic bronchial rupture are less likely given the specific clinical and imaging findings.\n\nImmediate further imaging, specifically CT angiography, is warranted to confirm the diagnosis and facilitate timely surgical intervention. The urgency of the situation is underscored by the patient's critical condition, necessitating rapid action to address the suspected vascular injury."
+        },
+        "difficulty": "advanced"
+    },
+    {
+        "question": "A 66-year-old male with a history of myocardial infarction presents to your primary care office with complaints of dyspnea on exertion and swollen feet and ankles. On exam, you note an elevated JVP and 2+ pitting edema of bilateral lower extremities. What is the most likely explanation for this patient's lower extremity edema? Options: (A) Increase in capillary pressure (B) Decrease in plasma proteins (E) Increase in interstitial fluid pressure (C) Increase in capillary permeability (D) Increase in colloid osmotic pressure",
+        "label": "A",
+        "answer": "Increase in capillary pressure",
+        "options": {
+            "A": "Increase in capillary pressure",
+            "B": "Decrease in plasma proteins",
+            "C": "Increase in capillary permeability",
+            "D": "Increase in colloid osmotic pressure",
+            "E": "Increase in interstitial fluid pressure"
+        },
+        "response": {
+            "0.0": "Let's analyze the situation step by step.\n\n1. **Patient's History and Symptoms**: The patient is a 66-year-old male with a history of myocardial infarction, presenting with dyspnea on exertion and swollen feet and ankles. The examination reveals elevated jugular venous pressure (JVP) and 2+ pitting edema in the bilateral lower extremities.\n\n2. **Understanding Edema**: Edema in the lower extremities can occur due to various mechanisms, including:\n   - Increased capillary pressure\n   - Decreased plasma proteins (hypoalbuminemia)\n   - Increased interstitial fluid pressure\n   - Increased capillary permeability\n   - Increased colloid osmotic pressure\n\n3. **Elevated JVP**: The elevated JVP suggests that there is increased pressure in the venous system, which is often seen in heart failure or fluid overload situations. This can lead to increased capillary hydrostatic pressure in the lower extremities, causing fluid to leak into the interstitial space and resulting in edema.\n\n4. **Most Likely Explanation**: Given the patient's history of myocardial infarction and the signs of heart failure (dyspnea, elevated JVP, and peripheral edema), the most likely explanation for the lower extremity edema is an increase in capillary pressure due to heart failure.\n\nTherefore, the answer is:\n**(A) Increase in capillary pressure**."
+        },
+        "difficulty": "basic"
+    },
+    {
+        "question": "A 32-year-old woman presents to the emergency department with complaints of a headache. The last menstrual period was 4 months ago. She also reports having a mild headache for 1 month. There has been a grape-like mass protruding from her vagina for the last 15 days. On examination, the fundus of the uterus is at the level of the umbilicus and no fetal heart sounds are heard. The vital signs are as follows: blood pressure 160/100 mm Hg, pulse rate 108/min. On USG examination, no fetal parts are seen. What will be the genotype of the substance which will be aspirated by dilation and evacuation? Options: (B) 45XO (E) 46XX (D) 47XYY (A) 69XXY (C) 23XX",
+        "label": "E",
+        "answer": "46XX",
+        "options": {
+            "A": "69XXY",
+            "B": "45XO",
+            "C": "23XX",
+            "D": "47XYY",
+            "E": "46XX"
+        },
+        "response": {
+            "0.0": "Let's analyze the case step by step. \n\nThe patient is a 32-year-old woman presenting with a history of amenorrhea (last menstrual period 4 months ago), a grape-like mass protruding from her vagina, and signs of hypertension. The ultrasound shows no fetal parts, which, combined with the grape-like mass, suggests a diagnosis of a molar pregnancy (gestational trophoblastic disease).\n\nIn a complete molar pregnancy, the genotype is typically 46XX or 46XY, but in this case, the presence of the grape-like mass and the absence of fetal parts suggests a complete mole, which often has a genotype of 69XXY. This is because a complete mole can result from the fertilization of an empty ovum by two sperm, leading to triploidy.\n\nGiven the options provided, the most appropriate answer that corresponds to the genotype of the substance that will be aspirated by dilation and evacuation in this case is:\n\nAnswer: (A) 69XXY"
+        },
+        "difficulty": "basic"
+    },
+    {
+        "question": "The Kozak sequence for the Beta-globin gene has a known mutation which decreases, though does not abolish, translation of the Beta-globin mRNA, leading to a phenotype of thalassemia intermedia. What would the blood smear be expected to show in a patient positive for this mutation? Options: (D) Bite cells (A) Macrocytic red blood cells (C) Microcytic red blood cells (E) Ringed sideroblasts (B) Hyperchromic red blood cells",
+        "label": "C",
+        "answer": "Microcytic red blood cells",
+        "options": {
+            "A": "Macrocytic red blood cells",
+            "B": "Hyperchromic red blood cells",
+            "C": "Microcytic red blood cells",
+            "D": "Bite cells",
+            "E": "Ringed sideroblasts"
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the hematologist, clinical geneticist, and pathologist, all three experts agree that the expected finding on a blood smear for a patient with a mutation in the Kozak sequence of the Beta-globin gene leading to thalassemia intermedia would be:\n\n(C) Microcytic red blood cells.\n\nSince all three agents provided the same answer, the majority vote is clear. \n\nFinal Answer: (C) Microcytic red blood cells."
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A gunshot victim is brought to the Emergency Department and appears to be in shock. You note a penetrating wound at the level of L3. Assuming the bullet remained at this level, which vascular structure might have been injured? Options: (B) Internal iliac artery (D) Renal artery (A) Inferior vena cava (C) Internal iliac vein (E) Portal vein",
+        "label": "A",
+        "answer": "Inferior vena cava",
+        "options": {
+            "A": "Inferior vena cava",
+            "B": "Internal iliac artery",
+            "C": "Internal iliac vein",
+            "D": "Renal artery",
+            "E": "Portal vein"
+        },
+        "response": {
+            "majority": {
+                "0.0": "To determine the final answer based on the majority opinion of the agents, we can summarize their responses:\n\n1. **Trauma Surgeon**: Chose **(A) Inferior vena cava** as the most likely injured structure.\n2. **Vascular Surgeon**: Also chose **(A) Inferior vena cava** as the most likely injured structure.\n3. **Emergency Medicine Physician**: Suggested **(B) Internal iliac artery** as the most likely injured structure, but also mentioned the possibility of the **(C) Internal iliac vein**.\n\nNow, let's count the votes:\n- **Inferior vena cava (A)**: 2 votes (Trauma Surgeon, Vascular Surgeon)\n- **Internal iliac artery (B)**: 1 vote (Emergency Medicine Physician)\n- **Internal iliac vein (C)**: 0 votes (Emergency Medicine Physician mentioned but did not choose as the primary answer)\n- **Renal artery (D)**: 0 votes\n- **Portal vein (E)**: 0 votes\n\nThe majority opinion is clearly in favor of the **Inferior vena cava (A)**, with 2 votes compared to 1 for the internal iliac artery.\n\n**Final Answer**: (A) Inferior vena cava"
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A 51-year-old woman presents to her primary care physician complaining of months of dry mouth and dry eyes. She says the dryness has become so severe that she has difficulty swallowing food. She has a history of hypertension, for which she takes hydrochlorothiazide (HCTZ), but she has no other medical problems. Family history is significant for her grandmother having systemic lupus erythematosus. The vital signs include: blood pressure 118/76 mm Hg, heart rate 78/min, and respiratory rate 15/min. On physical exam, she has tender parotid glands bilaterally and dries mucous membranes. The presence of serum anti-Ro and anti-La autoantibodies is confirmed at high titers. In addition to her primary diagnosis, which of the following is this patient most at risk for developing in the future? Options: (B) Non-Hodgkin lymphoma (A) Gastric carcinoma (E) Adenocarcinoma of the lung (D) Invasive ductal carcinoma of the breast (C) Pancreatic adenocarcinoma",
+        "label": "B",
+        "answer": "Non-Hodgkin lymphoma",
+        "options": {
+            "A": "Gastric carcinoma",
+            "B": "Non-Hodgkin lymphoma",
+            "C": "Pancreatic adenocarcinoma",
+            "D": "Invasive ductal carcinoma of the breast",
+            "E": "Adenocarcinoma of the lung"
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the three medical experts, it is clear that all agents unanimously agree on the diagnosis of Sj\u00f6gren's syndrome and the associated risk of developing non-Hodgkin lymphoma (NHL). \n\n- The rheumatologist, oncologist, and hematologist all emphasize the increased risk of NHL in patients with Sj\u00f6gren's syndrome due to chronic inflammation and immune dysregulation. \n- They all specifically state that the risk of developing non-Hodgkin lymphoma is significant, with no other malignancies mentioned as being associated with Sj\u00f6gren's syndrome.\n\nGiven that all three experts have provided the same conclusion, the majority vote is clear.\n\n**Final Answer: (B) Non-Hodgkin lymphoma.**"
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A 35-year-old woman comes to the physician because of intermittent episodes of heart palpitations for 3 weeks. The palpitations are accompanied by chest pain that is sharp and localized to the left 3rd intercostal space. The patient does not smoke. She drinks one to two glasses of wine on the weekends. She appears nervous. Her pulse is 110/min and irregularly irregular, and blood pressure is 135/85 mmHg. Examination shows a fine tremor on both hands and digital swelling. There is retraction of the left upper eyelid. A systolic ejection murmur is heard along the right upper sternal border. The extremities are warm, and pulses are 2+ bilaterally. Which of the following is the most appropriate pharmacotherapy? Options: (A) Propranolol (B) Digoxin (E) Diltiazem (D) Warfarin (C) Amiodarone",
+        "label": "A",
+        "answer": "Propranolol",
+        "options": {
+            "A": "Propranolol",
+            "B": "Digoxin",
+            "C": "Amiodarone",
+            "D": "Warfarin",
+            "E": "Diltiazem"
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the three medical experts, it is clear that there is a consensus regarding the most appropriate pharmacotherapy for the 35-year-old woman presenting with symptoms suggestive of hyperthyroidism and atrial fibrillation.\n\n1. **Cardiologist**: Strongly recommends **(A) Propranolol** for rate control and symptom management in the context of hyperthyroidism.\n2. **Endocrinologist**: Also supports **(A) Propranolol** as the first-line treatment for managing symptoms and controlling heart rate in hyperthyroid patients.\n3. **Pharmacologist**: Agrees with the previous experts, stating that **(A) Propranolol** is the most appropriate choice for managing both the elevated heart rate and the symptoms of hyperthyroidism.\n\nGiven that all three experts unanimously recommend **(A) Propranolol**, the final decision is:\n\n**Final Answer: (A) Propranolol.**"
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A medical student decides to join an immunology research center, which specifically works on capsular polysaccharide vaccine development against bacteria, such as Haemophilus influenzae type b (Hib), Neisseria meningitidis, and Streptococcus pneumoniae. As a member of a research team working on the Hib vaccine, he asks his senior colleague why capsular polysaccharides are conjugated to protein carriers like tetanus toxoid during vaccine development. Which of the following is the best response to this question? Options: (D) Conjugation with a protein carrier improves vaccine stability (E) Conjugation with a protein carrier provides effective protection to infants (A) Conjugation with a protein carrier generates IgG2 dominant antibody responses (B) Conjugation with a protein carrier generates IgM dominant antibody responses (C) Polysaccharides conjugated with proteins are T cell-independent antigens",
+        "label": "E",
+        "answer": "Conjugation with a protein carrier provides effective protection to infants",
+        "options": {
+            "A": "Conjugation with a protein carrier generates IgG2 dominant antibody responses",
+            "B": "Conjugation with a protein carrier generates IgM dominant antibody responses",
+            "C": "Polysaccharides conjugated with proteins are T cell-independent antigens",
+            "D": "Conjugation with a protein carrier improves vaccine stability",
+            "E": "Conjugation with a protein carrier provides effective protection to infants"
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the three agents, it is clear that all of them unanimously support option (E) \"Conjugation with a protein carrier provides effective protection to infants.\" Each expert emphasizes the importance of converting a T cell-independent immune response into a T cell-dependent response through conjugation, which enhances the immunogenicity of the vaccine, particularly in infants who are more susceptible to infections.\n\nGiven that all three agents agree on the same answer, the final decision is:\n\n**(E) Conjugation with a protein carrier provides effective protection to infants.**"
+            }
+        },
+        "difficulty": "intermediate"
+    },
+    {
+        "question": "A 45-year-old male with a history of diabetes and poorly controlled hypertension presents to his primary care physician for an annual check-up. He reports that he feels well and has no complaints. He takes enalapril and metformin. His temperature is 98.8\u00b0F (37.1\u00b0C), blood pressure is 155/90 mmHg, pulse is 80/min, and respirations are 16/min. His physician adds another anti-hypertensive medication to the patient\u2019s regimen. One month later, the patient returns to the physician complaining of new onset lower extremity swelling. Which of the following medications was likely prescribed to this patient? Options: (E) Spironolactone (B) Verapamil (D) Hydrochlorthiazide (C) Nifedipine (A) Metoprolol",
+        "label": "C",
+        "answer": "Nifedipine",
+        "options": {
+            "A": "Metoprolol",
+            "B": "Verapamil",
+            "C": "Nifedipine",
+            "D": "Hydrochlorthiazide",
+            "E": "Spironolactone"
+        },
+        "response": {
+            "0.0": "Let's analyze the situation step by step.\n\n1. **Patient Background**: The patient is a 45-year-old male with a history of diabetes and poorly controlled hypertension. He is currently on enalapril (an ACE inhibitor) and metformin (for diabetes).\n\n2. **Blood Pressure**: His blood pressure is still elevated at 155/90 mmHg, indicating that his hypertension is not well controlled.\n\n3. **New Symptoms**: After the addition of a new antihypertensive medication, the patient presents with new onset lower extremity swelling (edema).\n\n4. **Medication Options**:\n   - (E) Spironolactone: This is a potassium-sparing diuretic that can cause some fluid retention but is more commonly used to treat heart failure or resistant hypertension.\n   - (B) Verapamil: This is a calcium channel blocker that can cause peripheral edema as a side effect, but it is less commonly used as a first-line agent for hypertension.\n   - (D) Hydrochlorothiazide: This is a thiazide diuretic that typically helps reduce fluid retention and is often used for hypertension. It usually does not cause lower extremity swelling.\n   - (C) Nifedipine: This is a dihydropyridine calcium channel blocker that is known to cause peripheral edema as a side effect.\n   - (A) Metoprolol: This is a beta-blocker that does not typically cause peripheral edema.\n\n5. **Conclusion**: Given that the patient developed lower extremity swelling after the addition of a new antihypertensive medication, the most likely medication prescribed is (C) Nifedipine, as it is known to cause peripheral edema.\n\n**Final Answer**: (C) Nifedipine"
+        },
+        "difficulty": "basic"
+    },
+    {
+        "question": "A 42-year-old man presents to his primary care physician for a follow-up visit. He has type 1 diabetes mellitus, for which he takes insulin. He complains of frequent episodes of waking up in the middle of his sleep. When he wakes up, he feels excessive sweating, hand tremors, and weakness. His morning blood glucose is high on repeated measurement. Which of the following is the optimal intervention for this patient condition? Options: (A) Reassurance (C) Adding pramlintide (E) Reducing daily insulin dose (D) Increasing daily insulin dose (B) Adding diazepam",
+        "label": "E",
+        "answer": "Reducing daily insulin dose",
+        "options": {
+            "A": "Reassurance",
+            "B": "Adding diazepam",
+            "C": "Adding pramlintide",
+            "D": "Increasing daily insulin dose",
+            "E": "Reducing daily insulin dose"
+        },
+        "response": {
+            "majority": {
+                "0.0": "After reviewing the opinions of the endocrinologist, diabetes educator, and sleep medicine specialist, the majority consensus is clear. All three experts agree that the patient is experiencing nocturnal hypoglycemia, which is leading to his symptoms and high morning blood glucose levels. The recommended intervention from all three specialists is to reduce the daily insulin dose to prevent these hypoglycemic episodes.\n\nTherefore, the final answer is:\n(E) Reducing daily insulin dose."
+            }
+        },
+        "difficulty": "intermediate"
+    }
+]

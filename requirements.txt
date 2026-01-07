@@ -1,7 +1,10 @@
 openai==1.14.2
+httpx==0.27.2
 tqdm==4.66.1
 requests==2.31.0
 prettytable==3.9.0
 termcolor==2.4.0
 pptree==3.1
 climage==0.2.0
+google-generativeai
+
